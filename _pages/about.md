@@ -8,6 +8,7 @@ redirect_from:
   - /about.html
 ---
 
+
 <!-- 
 ---
 permalink: /
@@ -18,7 +19,7 @@ redirect_from:
   - /about.html
 --- -->
 
-<img src="{{ '/images/photo_shu.jpg' | relative_url }}" alt="Shu Hong" width="160" style="border-radius:50%">
+<!-- <img src="{{ '/images/photo_shu.jpg' | relative_url }}" alt="Shu Hong" width="160" style="border-radius:50%"> -->
 
 
 
