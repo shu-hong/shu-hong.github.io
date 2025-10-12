@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Experience"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,30 +9,43 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+# Work Experiences
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+### The George Washington University (GWU) — District of Columbia, USA  
+Postdoctoral Associate, Department of Electrical and Computer Engineering  
+*2025 – Present*  
+Advisor: [Prof. Tian Lan](https://www2.seas.gwu.edu/~tlan/)
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+
+### The University of British Columbia (UBC) — British Columbia, Canada  
+Postdoctoral Research Fellow, Department of Electrical and Computer Engineering  
+*2023 – 2024*  
+Advisor: [Prof. Vincent W.S. Wong](https://people.ece.ubc.ca/vincentw/Homepage/Home.html) 
+
+---
+
+# Education
+
+### Singapore University of Technology and Design (SUTD) — Singapore  
+Ph.D. in Engineering Systems and Design  
+*2018 – 2023*  
+Advisor: [Prof. Lingjie Duan](https://people.sutd.edu.sg/~lingjie_duan)
+
+
+### Purdue University — Indiana, USA  
+Visiting Scholar, School of Electrical and Computer Engineering  
+*2022 – 2023*  
+Advisor: [Prof. Xiaojun Lin](https://staff.ie.cuhk.edu.hk/~xjlin) 
+
+
+### Southeast University — Nanjing, China  
+B.Eng. in Information Engineering  
+*2014 – 2018*  
+Research Assistant, National Mobile Communications Research Laboratory  
+
   
-Skills
+<!-- Skills
 ======
 * Skill 1
 * Skill 2
@@ -61,4 +74,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->

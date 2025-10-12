@@ -15,16 +15,69 @@ I was a visiting student at Purdue University, hosted by Prof. [Xiaojun Lin](htt
 
 # Research Interests
 
-- Distributed learning and reinforcement learning
+- Privacy-Preserving Machine Learning
 
-- Privacy and security in networked systems
+- Federated and Edge Intelligence
 
-- Network economics
-
-Experiences
-======
+- Network Economics and Incentive Mechanism
 
 
-Selected Publications
-======
 
+# Selected Publications
+<!-- ### Selected Publications -->
+<!-- <div style="font-size:0.95em; line-height:1.5;"> -->
+
+- Qiufeng Li, **Shu Hong**, Jian Gao, Xuan Zhang, Tian Lan, Weidong Cao. “AnalogFed: Federated Discovery of Analog Circuit Topologies with Generative AI.” *arXiv preprint* arXiv:2507.15104. [PDF](https://arxiv.org/pdf/2507.15104)
+
+- **Shu Hong**, Xiaojun Lin, Lingjie Duan. “Lightweight Federated Learning with Differential Privacy and Straggler Resilience.” In *Proc. IEEE IEEE Conference on Computer Communication (INFOCOM)*, 2025. [Link](https://ieeexplore.ieee.org/document/11044562)
+
+- **Shu Hong**, Lingjie Duan. “Regulating Clients' Noise Adding in Federated Learning without Verification.” In *Proc. IEEE nternational Conference on Communications (ICC)*, 2023. [Link](https://ieeexplore.ieee.org/document/10279141)
+
+- **Shu Hong**, Lingjie Duan. “Crowdsourced Privacy Protection Game against Adversary through Multi-user Location Obfuscation.” *IEEE Transactions on Mobile Computing*, 23(3), 2023. [Link](https://ieeexplore.ieee.org/document/10054135)
+
+- **Shu Hong**, Lingjie Duan, Jianwei Huang. “Protecting Location Privacy by Multi-Query: A Dynamic Bayesian Game Theoretic Approach.” *IEEE Transactions on Information Forensics and Security*, 17:2569–2584, 2022. [Link](https://ieeexplore.ieee.org/abstract/document/9819902)
+
+<!-- </div> -->
+
+# Talks and Presentations
+
+<!-- <div style="font-size:0.95em; line-height:1.6;"> -->
+
+### Invited Talks
+- “Game-theoretic Analysis of Privacy Preservation in Location-Based Services”, at *IEEE SECON Workshop on the Economics of Fog, Edge and Cloud Computing (ECOFEC)*, Virtual, Sep. 2022.
+
+### Presentations
+- “Lightweight Federated Learning with Differential Privacy and Straggler Resilience”, *IEEE INFOCOM*, London, UK, May 2025.  
+- “Regulating Clients' Noise Adding in Federated Learning without Verification”, *IEEE ICC*, Rome, Italy, June 2023.  
+- “Multi-user Privacy Cooperation Game by Leveraging Users' Service Flexibility”, *IEEE ISIT*, Espoo, Finland, June 2022.  
+- “Gaining Location Privacy from Service Flexibility: A Bayesian Game Theoretic Approach”, *IEEE PST*, Virtual, Dec. 2021.
+
+<!-- </div> -->
+
+# Academic Services
+### Technical Reviewers
+- IEEE/ACM Transactions on Networking (ToN)
+
+- IEEE Transactions on Wireless Communications (TWC)
+
+- IEEE Transactions on Information Forensics and Security (TIFS)
+
+- IEEE Transactions on Mobile Computing (TMC)
+
+- IEEE Internet of Things Journal (IoTJ)
+
+- IEEE Transactions on Network Science and Engineering (TNSE)
+
+- IEEE Transactions on Green Communications and Networking (TGCN)
+
+- ACM International Symposium on Mobile Ad Hoc Networking and Computing (MobiHoc)
+
+- IEEE International Conference on Computer Communications (INFOCOM)
+
+- IEEE Wireless Communications and Networking Conference (WCNC)
+
+- Annual AAAI Conference on Artificial Intelligence (AAAI) 
+
+
+### Panel Organizer
+- Panel Organizer and moderator, "Tech Leadership and Diversity'', WICE/N2Women/ACM-W joint panel at IEEE INFOCOM, London, UK, May 2025.
