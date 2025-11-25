@@ -31,7 +31,7 @@ I was a visiting student at Purdue University, hosted by Prof. [Xiaojun Lin](htt
 
 # Research Interests
 
-My work builds trustworthy and efficient AI/ML for edge, networked, and cyber-physica systems, unifying machine learning with networking, privacy and security, incentives, and systems co-design. The goal is deployable intelligence that respects real-world constraints in cyber-physical and distributed environments and supports human and organizational decision-making.
+My work builds trustworthy and efficient AI/ML for edge, networked, and cyber-physical systems, unifying machine learning with networking, privacy and security, incentives, and systems co-design. The goal is deployable intelligence that respects real-world constraints in cyber-physical and distributed environments and supports human and organizational decision-making.
 
 - Machine learning algorithms: federated and split learning, reinforcement learning, membership-safe fine-tuning
 
@@ -103,4 +103,4 @@ Processes with Spectral Representations,” *arXiv preprint* arXiv:2511.07734. [
 
 
 ### Panel Organizer
-- Panel Organizer and moderator, "Tech Leadership and Diversity'', WICE/N2Women/ACM-W joint panel at IEEE INFOCOM, London, UK, May 2025.
+- Panel organizer and moderator, "Tech Leadership and Diversity'', WICE/N2Women/ACM-W joint panel at IEEE INFOCOM, London, UK, May 2025.
