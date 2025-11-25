@@ -31,11 +31,15 @@ I was a visiting student at Purdue University, hosted by Prof. [Xiaojun Lin](htt
 
 # Research Interests
 
-- Privacy-Preserving Machine Learning
+My work builds trustworthy and efficient AI/ML for edge, networked, and cyber-physica systems, unifying machine learning with networking, privacy and security, incentives, and systems co-design. The goal is deployable intelligence that respects real-world constraints in cyber-physical and distributed environments and supports human and organizational decision-making.
 
-- Federated and Edge Intelligence
+- Machine learning algorithms: federated and split learning, reinforcement learning, membership-safe fine-tuning
 
-- Network Economics and Incentive Mechanism
+- Network privacy and security: differential privacy, secure multi-party computation
+
+- AI-system co-design: wireless/IoT networks, edge/fog computing, cyber-physical applications such as IC design and mixed reality
+
+- Optimization and decision-making: game theory, mechanism design, decision making under uncertainty
 
 
 
@@ -43,7 +47,10 @@ I was a visiting student at Purdue University, hosted by Prof. [Xiaojun Lin](htt
 <!-- ### Selected Publications -->
 <!-- <div style="font-size:0.95em; line-height:1.5;"> -->
 
-- Qiufeng Li, **Shu Hong**, Jian Gao, Xuan Zhang, Tian Lan, Weidong Cao. “AnalogFed: Federated Discovery of Analog Circuit Topologies with Generative AI.” *arXiv preprint* arXiv:2507.15104. [PDF](https://arxiv.org/pdf/2507.15104)
+- **Shu Hong**, Yongsheng Mei, Mahdi Imani, Tian Lan, “Global Optimization on Graph-Structured Data via Gaussian
+Processes with Spectral Representations,” *arXiv preprint* arXiv:2511.07734. [PDF](https://arxiv.org/pdf/2511.07734)
+
+<!-- - Qiufeng Li, **Shu Hong**, Jian Gao, Xuan Zhang, Tian Lan, Weidong Cao. “AnalogFed: Federated Discovery of Analog Circuit Topologies with Generative AI.” *arXiv preprint* arXiv:2507.15104. [PDF](https://arxiv.org/pdf/2507.15104) -->
 
 - **Shu Hong**, Xiaojun Lin, Lingjie Duan. “Lightweight Federated Learning with Differential Privacy and Straggler Resilience.” In *Proc. IEEE IEEE Conference on Computer Communication (INFOCOM)*, 2025. [Link](https://ieeexplore.ieee.org/document/11044562)
 
