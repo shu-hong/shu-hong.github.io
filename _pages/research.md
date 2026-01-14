@@ -1,44 +1,43 @@
 ---
-title: "Academic Services"
-permalink: /service/
+title: "Research"
+permalink: /research/
 layout: archive
 author_profile: true
-collection: service
+collection: research
 ---
 
-
-{% include base_path %}
-
-<!-- </div> -->
-
-### Technical Reviewers
-- IEEE/ACM Transactions on Networking (ToN)
-
-- IEEE Transactions on Wireless Communications (TWC)
-
-- IEEE Transactions on Information Forensics and Security (TIFS)
-
-- IEEE Transactions on Mobile Computing (TMC)
-
-- IEEE Internet of Things Journal (IoTJ)
-
-- IEEE Transactions on Network Science and Engineering (TNSE)
-
-- IEEE Transactions on Green Communications and Networking (TGCN)
-
-- IEEE Transactions on Sustainable Computing
-
-- ACM International Symposium on Mobile Ad Hoc Networking and Computing (MobiHoc)
-
-- IEEE International Conference on Computer Communications (INFOCOM)
-
-- IEEE Wireless Communications and Networking Conference (WCNC)
-
-- Annual AAAI Conference on Artificial Intelligence (AAAI) 
+My research builds ***trustworthy and efficient AI systems*** under privacy, strategic, and resource constraints, bridging theory, algorithms, and real-world deployment in networked and cyber-physical systems, with methods demonstrated in analog IC design and mixed reality systems.
 
 
-### Organizer
-- Panel organizer and moderator, [“Tech Leadership and Diversity”](https://infocom2025.ieee-infocom.org/program/wice), WICE/N2Women/ACM-W joint panel at IEEE INFOCOM, London, UK, May 2025.
+<img src="/images/ResearchOverview.png" alt="Research overview" width="700">
+
+
+
+# Selected Publications
+<!-- ### Selected Publications -->
+<!-- <div style="font-size:0.95em; line-height:1.5;"> -->
+
+- **Shu Hong**, Yongsheng Mei, Mahdi Imani, Tian Lan, “Global Optimization on Graph-Structured Data via Gaussian Processes with Spectral Representations,” *arXiv preprint* arXiv:2511.07734, 2025. [PDF](https://arxiv.org/pdf/2511.07734)
+
+- Qiufeng Li, **Shu Hong**, Jian Gao, Xuan Zhang, Tian Lan, Weidong Cao. “AnalogFed: Federated Discovery of Analog Circuit Topologies with Generative AI.” *arXiv preprint* arXiv:2507.15104. [PDF](https://arxiv.org/pdf/2507.15104) 
+
+- **Shu Hong**, Rongqian Chen, Rifatul Islam, Mahdi Imani, Gang Tan, Tian Lan, “Time-Aware LSTM for Gaze Prediction in Mixed Reality Under Latency Perturbations,” In *Proc. the 1st Workshop on Enhancing Security, Privacy, and Trust in Extended Reality (XR) Systems* at *ACM MobiHoc*, 2025 (Best Poster/Demo Award). [Link](https://dl.acm.org/doi/10.1145/3704413.3765313)
+
+- Rongqian Chen, **Shu Hong**, Rifatul Islam, Mahdi Imani, Gang Tan, Tian Lan, “Perception Graph for Cognitive Attack Reasoning in Augmented Reality,” In *Proc. the 1st Workshop on Enhancing Security, Privacy, and Trust in Extended Reality (XR) Systems* at *ACM MobiHoc*, 2025. [Link](https://dl.acm.org/doi/10.1145/3704413.3765312)
+
+- **Shu Hong**, Xiaojun Lin, Lingjie Duan, “Lightweight Federated Learning with Differential Privacy and Straggler Resilience,” In *Proc. IEEE Conference on Computer Communications (INFOCOM)*, 2025. [Link](https://ieeexplore.ieee.org/document/11044562)
+
+- **Shu Hong**, Lingjie Duan, “Regulating Clients' Noise Adding in Federated Learning without Verification,” In *Proc. IEEE International Conference on Communications (ICC)*, 2023. [Link](https://ieeexplore.ieee.org/document/10279141)
+
+- **Shu Hong**, Lingjie Duan, “Crowdsourced Privacy Protection Game against Adversary through Multi-user Location Obfuscation,” *IEEE Transactions on Mobile Computing (TMC)*, 23(3), 2023. [Link](https://ieeexplore.ieee.org/document/10054135)
+
+- **Shu Hong**, Lingjie Duan, Jianwei Huang, “Protecting Location Privacy by Multi-Query: A Dynamic Bayesian Game Theoretic Approach,” *IEEE Transactions on Information Forensics and Security (TIFS)*, 17:2569–2584, 2022. [Link](https://ieeexplore.ieee.org/abstract/document/9819902)
+
+- **Shu Hong**, Lingjie Duan, “Multi-user Privacy Cooperation Game by Leveraging Users' Service Flexibility,” In *Proc. IEEE International Symposium on Information Theory (ISIT)*, 2022. [Link](https://ieeexplore.ieee.org/abstract/document/9834703)
+
+- **Shu Hong**, Lingjie Duan, Jianwei Huang, “Gaining Location Privacy from Service Flexibility: A Bayesian Game Theoretic Approach,” In *Proc. International Conference on Privacy, Security and Trust (PST)*, 2021. [Link](https://ieeexplore.ieee.org/abstract/document/9647853)
+
 
 
 <!-- </div> -->
+
