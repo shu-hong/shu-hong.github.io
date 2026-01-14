@@ -23,5 +23,5 @@ collection: teaching
 
 - ***Teaching Assistant***, Engineering Systems and Design Pillar, Singapore University of Technology and Design
     
-    - 40.001 Probability （*Fall 2019*）
+    - 40.001 Probability（*Fall 2019*）
     - 40.012 Manufacturing and Service Operations （*Spring 2020*）
