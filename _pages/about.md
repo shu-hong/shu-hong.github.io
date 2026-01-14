@@ -28,7 +28,6 @@ I was a visiting student at Purdue University, hosted by Prof. [Xiaojun Lin](htt
 
 
 
-
 # Research Interests
 
 My work builds trustworthy and efficient AI/ML for edge, networked, and cyber-physical systems, unifying machine learning with networking, privacy and security, incentives, and systems co-design. The goal is deployable intelligence that respects real-world constraints in cyber-physical and distributed environments and supports human and organizational decision-making.
@@ -40,6 +39,18 @@ My work builds trustworthy and efficient AI/ML for edge, networked, and cyber-ph
 - AI-system co-design: wireless/IoT networks, edge/fog computing, cyber-physical applications such as IC design and mixed reality
 
 - Optimization and decision-making: game theory, mechanism design, decision making under uncertainty
+
+# News
+- *Oct. 2025*: Our work "Time-Aware LSTM for Gaze Prediction in Mixed Reality Under Latency Perturbations" wins the Best Poster Award at ACM Mobihoc XR Security Security.
+
+- *Oct. 2025*: I presented our work "Time-Aware LSTM for Gaze Prediction in Mixed Reality Under Latency Perturbations" and "“Perception Graph for Cognitive Attack Reasoning in Augmented Reality" at ACM Mobihoc XR Security Workshop.
+
+- *May 2025*: I presented our work "Lightweight Federated Learning with Differential Privacy and Straggler Resilience" at INFOCOM 2025.
+
+- *May 2025*: I co-organized and moderated the [“Tech Leadership and Diversity” panel](https://infocom2025.ieee-infocom.org/program/wice), jointly organized by WICE, N2Women, and ACM-W.
+
+- *April 2025*: I was awarded with the N2Women Young Researcher Fellowship.
+
 
 
 
@@ -60,47 +71,5 @@ Processes with Spectral Representations,” *arXiv preprint* arXiv:2511.07734. [
 
 - **Shu Hong**, Lingjie Duan, Jianwei Huang. “Protecting Location Privacy by Multi-Query: A Dynamic Bayesian Game Theoretic Approach.” *IEEE Transactions on Information Forensics and Security*, 17:2569–2584, 2022. [Link](https://ieeexplore.ieee.org/abstract/document/9819902)
 
-<!-- </div> -->
-
-# Talks and Presentations
-
-<!-- <div style="font-size:0.95em; line-height:1.6;"> -->
-
-### Invited Talks
-- “Game-theoretic Analysis of Privacy Preservation in Location-Based Services”, at *IEEE SECON Workshop on the Economics of Fog, Edge and Cloud Computing (ECOFEC)*, Virtual, Sep. 2022.
-
-### Presentations
-- “Lightweight Federated Learning with Differential Privacy and Straggler Resilience”, *IEEE INFOCOM*, London, UK, May 2025. [Slides]({{ '/files/Slides_LightDPFL_Infocom25.pdf' | relative_url }}) 
-- “Regulating Clients' Noise Adding in Federated Learning without Verification”, *IEEE ICC*, Rome, Italy, June 2023.  
-- “Multi-user Privacy Cooperation Game by Leveraging Users' Service Flexibility”, *IEEE ISIT*, Espoo, Finland, June 2022.  
-- “Gaining Location Privacy from Service Flexibility: A Bayesian Game Theoretic Approach”, *IEEE PST*, Virtual, Dec. 2021.
-
-<!-- </div> -->
-
-# Academic Services
-### Technical Reviewers
-- IEEE/ACM Transactions on Networking (ToN)
-
-- IEEE Transactions on Wireless Communications (TWC)
-
-- IEEE Transactions on Information Forensics and Security (TIFS)
-
-- IEEE Transactions on Mobile Computing (TMC)
-
-- IEEE Internet of Things Journal (IoTJ)
-
-- IEEE Transactions on Network Science and Engineering (TNSE)
-
-- IEEE Transactions on Green Communications and Networking (TGCN)
-
-- ACM International Symposium on Mobile Ad Hoc Networking and Computing (MobiHoc)
-
-- IEEE International Conference on Computer Communications (INFOCOM)
-
-- IEEE Wireless Communications and Networking Conference (WCNC)
-
-- Annual AAAI Conference on Artificial Intelligence (AAAI) 
 
 
-### Panel Organizer
-- Panel organizer and moderator, "Tech Leadership and Diversity'', WICE/N2Women/ACM-W joint panel at IEEE INFOCOM, London, UK, May 2025.
