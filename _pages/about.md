@@ -30,7 +30,7 @@ I was a visiting student at Purdue University, hosted by Prof. [Xiaojun Lin](htt
 
 # Research Interests
 
-My work builds trustworthy and efficient AI/ML for edge, networked, and cyber-physical systems, unifying machine learning with networking, privacy and security, incentives, and systems co-design. The goal is deployable intelligence that respects real-world constraints in cyber-physical and distributed environments and supports human and organizational decision-making.
+My work builds *trustworthy and efficient AI/ML* for edge, networked, and cyber-physical systems, unifying machine learning with networking, privacy and security, incentives, and systems co-design. The goal is deployable intelligence that respects real-world constraints in cyber-physical and distributed environments and supports human and organizational decision-making.
 
 - Machine learning algorithms: federated and split learning, reinforcement learning, membership-safe fine-tuning
 
@@ -43,7 +43,7 @@ My work builds trustworthy and efficient AI/ML for edge, networked, and cyber-ph
 # News
 - *Oct. 2025*: Our work "Time-Aware LSTM for Gaze Prediction in Mixed Reality Under Latency Perturbations" wins the Best Poster Award at ACM Mobihoc XR Security Security.
 
-- *Oct. 2025*: I presented our work "Time-Aware LSTM for Gaze Prediction in Mixed Reality Under Latency Perturbations" and "“Perception Graph for Cognitive Attack Reasoning in Augmented Reality" at ACM Mobihoc XR Security Workshop.
+- *Oct. 2025*: I presented our work "Time-Aware LSTM for Gaze Prediction in Mixed Reality Under Latency Perturbations" and "Perception Graph for Cognitive Attack Reasoning in Augmented Reality" at ACM Mobihoc XR Security Workshop.
 
 - *May 2025*: I presented our work "Lightweight Federated Learning with Differential Privacy and Straggler Resilience" at INFOCOM 2025.
 
