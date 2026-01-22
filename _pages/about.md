@@ -41,6 +41,8 @@ My work builds *trustworthy and efficient AI/ML* for edge, networked, and cyber-
 - Optimization and decision-making: game theory, mechanism design, decision making under uncertainty
 
 # News
+- *Jan. 2026*: Our work "Workflow Search Reinforcement Learning over Structured Decompositions" was accepted at the Annual Learning for Dynamics and Control Conference (L4DC), 2026.
+
 - *Oct. 2025*: Our work "Time-Aware LSTM for Gaze Prediction in Mixed Reality Under Latency Perturbations" received the Best Poster/Demo Award at the ACM MobiHoc XR Security Workshop.
 
 - *Oct. 2025*: I presented our work "Time-Aware LSTM for Gaze Prediction in Mixed Reality Under Latency Perturbations" and "Perception Graph for Cognitive Attack Reasoning in Augmented Reality" at the ACM MobiHoc XR Security Workshop.
@@ -66,9 +68,9 @@ Processes with Spectral Representations,” *arXiv preprint* arXiv:2511.07734. [
 
 - **Shu Hong**, Lingjie Duan. “Regulating Clients' Noise Adding in Federated Learning without Verification.” In *Proc. IEEE nternational Conference on Communications (ICC)*, 2023. [Link](https://ieeexplore.ieee.org/document/10279141)
 
-- **Shu Hong**, Lingjie Duan. “Crowdsourced Privacy Protection Game against Adversary through Multi-user Location Obfuscation.” *IEEE Transactions on Mobile Computing*, 23(3), 2023. [Link](https://ieeexplore.ieee.org/document/10054135)
+- **Shu Hong**, Lingjie Duan. “Crowdsourced Privacy Protection Game against Adversary through Multi-user Location Obfuscation.” *IEEE Transactions on Mobile Computing*, 2023. [Link](https://ieeexplore.ieee.org/document/10054135)
 
-- **Shu Hong**, Lingjie Duan, Jianwei Huang. “Protecting Location Privacy by Multi-Query: A Dynamic Bayesian Game Theoretic Approach.” *IEEE Transactions on Information Forensics and Security*, 17:2569–2584, 2022. [Link](https://ieeexplore.ieee.org/abstract/document/9819902)
+- **Shu Hong**, Lingjie Duan, Jianwei Huang. “Protecting Location Privacy by Multi-Query: A Dynamic Bayesian Game Theoretic Approach.” *IEEE Transactions on Information Forensics and Security*, 2022. [Link](https://ieeexplore.ieee.org/abstract/document/9819902)
 
 
 
