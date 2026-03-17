@@ -11,7 +11,13 @@ collection: service
 
 <!-- </div> -->
 
-### Technical Reviewers
+### Program Committee
+- Agentic and Decentralized Coordination for Softwarized Networks  Workshop (ADeCoS), 2026
+
+- Annual AAAI Conference on Artificial Intelligence (AAAI) 
+
+
+### Technical Reviewer
 - IEEE/ACM Transactions on Networking (ToN)
 
 - IEEE Transactions on Wireless Communications (TWC)
@@ -34,7 +40,7 @@ collection: service
 
 - IEEE Wireless Communications and Networking Conference (WCNC)
 
-- Annual AAAI Conference on Artificial Intelligence (AAAI) 
+
 
 
 ### Organizer

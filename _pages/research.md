@@ -21,7 +21,7 @@ My research builds ***trustworthy and efficient AI systems*** under privacy, str
 
 - Qiufeng Li, **Shu Hong**, Jian Gao, Xuan Zhang, Tian Lan, Weidong Cao. “AnalogFed: Federated Discovery of Analog Circuit Topologies with Generative AI,” *arXiv preprint* arXiv:2507.15104, 2025. [PDF](https://arxiv.org/pdf/2507.15104) 
 
-- Guangyu Jiang, **Shu Hong**, Mahdi Imani, Nathaniel D. Bastian and Tian Lan, "Workflow Search Reinforcement Learning over Structured Decompositions," in *Proc. Annual Learning for Dynamics and Control Conference (L4DC)*, 2026.
+- Guangyu Jiang, **Shu Hong**, Mahdi Imani, Nathaniel D. Bastian and Tian Lan, "Workflow Search Reinforcement Learning over Structured Decompositions," in *Proc. Annual Learning for Dynamics and Control Conference (L4DC)*, 2026. [PDF]({{ '/files/Paper/L4DC_2026_Workflow_Search_RL.pdf' | relative_url }}) 
 
 - **Shu Hong**, Rongqian Chen, Rifatul Islam, Mahdi Imani, Gang Tan, Tian Lan, “Time-Aware LSTM for Gaze Prediction in Mixed Reality Under Latency Perturbations,” In *Proc. the 1st Workshop on Enhancing Security, Privacy, and Trust in Extended Reality (XR) Systems* at *ACM MobiHoc*, 2025 (Best Poster/Demo Award). [Link](https://dl.acm.org/doi/10.1145/3704413.3765313)
 
