@@ -16,6 +16,9 @@ collection: service
 
 - Annual AAAI Conference on Artificial Intelligence (AAAI) 
 
+### Organizer
+- Panel organizer and moderator, [“Tech Leadership and Diversity”](https://infocom2025.ieee-infocom.org/program/wice), WICE/N2Women/ACM-W joint panel at IEEE INFOCOM, London, UK, May 2025.
+
 
 ### Technical Reviewer
 - IEEE/ACM Transactions on Networking (ToN)
@@ -41,10 +44,11 @@ collection: service
 - IEEE Wireless Communications and Networking Conference (WCNC)
 
 
+### Volunteer 
+- IEEE International Conference on Computer Communications (INFOCOM), Vancouver, Canada, May 2024.
 
+- International Symposium on Modeling and Optimization in Mobile, Ad hoc, and Wireless Networks (WiOpt), Singapore, Aug. 2023.
 
-### Organizer
-- Panel organizer and moderator, [“Tech Leadership and Diversity”](https://infocom2025.ieee-infocom.org/program/wice), WICE/N2Women/ACM-W joint panel at IEEE INFOCOM, London, UK, May 2025.
 
 
 <!-- </div> -->
