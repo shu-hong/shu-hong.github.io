@@ -60,14 +60,14 @@ My work builds *trustworthy and efficient AI/ML* for edge, networked, and cyber-
 <!-- <div style="font-size:0.95em; line-height:1.5;"> -->
 
 - **Shu Hong**, Yongsheng Mei, Mahdi Imani, Tian Lan, “Global Optimization on Graph-Structured Data via Gaussian
-Processes with Spectral Representations,” *arXiv preprint* arXiv:2511.07734. [Paper](https://arxiv.org/pdf/2511.07734)
+Processes with Spectral Representations,” *arXiv preprint* arXiv:2511.07734. [(Paper)](https://arxiv.org/pdf/2511.07734)
 
 <!-- - Qiufeng Li, **Shu Hong**, Jian Gao, Xuan Zhang, Tian Lan, Weidong Cao. “AnalogFed: Federated Discovery of Analog Circuit Topologies with Generative AI.” *arXiv preprint* arXiv:2507.15104. [PDF](https://arxiv.org/pdf/2507.15104) -->
 
-- **Shu Hong**, Xiaojun Lin, Lingjie Duan. “Lightweight Federated Learning with Differential Privacy and Straggler Resilience.” In *Proc. IEEE IEEE Conference on Computer Communication (INFOCOM)*, 2025. [Paper]({{ '/files/Paper/INFOCOM_2025_LightDP_FL.pdf' | relative_url }})
+- **Shu Hong**, Xiaojun Lin, Lingjie Duan. “Lightweight Federated Learning with Differential Privacy and Straggler Resilience.” In *Proc. IEEE IEEE Conference on Computer Communication (INFOCOM)*, 2025. [(Paper)]({{ '/files/Paper/INFOCOM_2025_LightDP_FL.pdf' | relative_url }})
 
-- **Shu Hong**, Lingjie Duan. “Regulating Clients' Noise Adding in Federated Learning without Verification.” In *Proc. IEEE nternational Conference on Communications (ICC)*, 2023. [Paper]({{ '/files/Paper/ICC_2023_NoiseRegulationInFL.pdf' | relative_url }})
+- **Shu Hong**, Lingjie Duan. “Regulating Clients' Noise Adding in Federated Learning without Verification.” In *Proc. IEEE nternational Conference on Communications (ICC)*, 2023. [(Paper)]({{ '/files/Paper/ICC_2023_NoiseRegulationInFL.pdf' | relative_url }})
 
-- **Shu Hong**, Lingjie Duan. “Crowdsourced Privacy Protection Game against Adversary through Multi-user Location Obfuscation.” *IEEE Transactions on Mobile Computing*, 2023. [Paper]({{ '/files/Paper/TMC_2023_MultiUserPrivacy.pdf' | relative_url }})
+- **Shu Hong**, Lingjie Duan. “Crowdsourced Privacy Protection Game against Adversary through Multi-user Location Obfuscation.” *IEEE Transactions on Mobile Computing*, 2023. [(Paper)]({{ '/files/Paper/TMC_2023_MultiUserPrivacy.pdf' | relative_url }})
 
-- **Shu Hong**, Lingjie Duan, Jianwei Huang. “Protecting Location Privacy by Multi-Query: A Dynamic Bayesian Game Theoretic Approach.” *IEEE Transactions on Information Forensics and Security*, 2022. [Paper]({{ '/files/Paper/TIFS_2022_Multiquery.pdf' | relative_url }})
+- **Shu Hong**, Lingjie Duan, Jianwei Huang. “Protecting Location Privacy by Multi-Query: A Dynamic Bayesian Game Theoretic Approach.” *IEEE Transactions on Information Forensics and Security*, 2022. [(Paper)]({{ '/files/Paper/TIFS_2022_Multiquery.pdf' | relative_url }})
