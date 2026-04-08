@@ -17,6 +17,7 @@ My research builds ***trustworthy and efficient AI systems*** under privacy, str
 <!-- ### Selected Publications -->
 <!-- <div style="font-size:0.95em; line-height:1.5;"> -->
 
+
 - **Shu Hong**, Yongsheng Mei, Mahdi Imani, Tian Lan, “Global Optimization on Graph-Structured Data via Gaussian Processes with Spectral Representations,” *arXiv preprint* arXiv:2511.07734, 2025. [PDF](https://arxiv.org/pdf/2511.07734)
 
 - Qiufeng Li, **Shu Hong**, Jian Gao, Xuan Zhang, Tian Lan, Weidong Cao. “AnalogFed: Federated Discovery of Analog Circuit Topologies with Generative AI,” *arXiv preprint* arXiv:2507.15104, 2025. [PDF](https://arxiv.org/pdf/2507.15104) 

@@ -16,6 +16,9 @@ collection: talks
 <!-- <div style="font-size:0.95em; line-height:1.6;"> -->
 
 ### Invited Talks
+- "Trustworthy Edge AI: From Provable Data Privacy to Resilient Human Cognition", 
+George Mason University ECE Seminar, Mar. 2026.
+
 - “Game-theoretic Analysis of Privacy Preservation in Location-Based Services”, at *IEEE SECON Workshop on the Economics of Fog, Edge and Cloud Computing (ECOFEC)*, Virtual, Sep. 2022. [(Slides)]({{ '/files/Slides_Privacy_SECON22.pdf' | relative_url }}) 
 
 ### Presentations
