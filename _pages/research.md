@@ -26,7 +26,7 @@ My research builds ***trustworthy and efficient AI systems*** under privacy, str
 
 - **Shu Hong**, Rongqian Chen, Rifatul Islam, Mahdi Imani, Gang Tan, Tian Lan, “Time-Aware LSTM for Gaze Prediction in Mixed Reality Under Latency Perturbations,” In *Proc. the 1st Workshop on Enhancing Security, Privacy, and Trust in Extended Reality (XR) Systems* at *ACM MobiHoc*, 2025 (Best Poster/Demo Award). [(Paper)]({{ '/files/Paper/MRSecurity_2025_Gaze_Model.pdf' | relative_url }})  [(Link)](https://dl.acm.org/doi/10.1145/3704413.3765313)
 
-- Rongqian Chen, **Shu Hong**, Rifatul Islam, Mahdi Imani, Gang Tan, Tian Lan, “Perception Graph for Cognitive Attack Reasoning in Augmented Reality,” In *Proc. the 1st Workshop on Enhancing Security, Privacy, and Trust in Extended Reality (XR) Systems* at *ACM MobiHoc*, 2025. [(Link)](https://dl.acm.org/doi/10.1145/3704413.3765312)
+- Rongqian Chen, **Shu Hong**, Rifatul Islam, Mahdi Imani, Gang Tan, Tian Lan, “Perception Graph for Cognitive Attack Reasoning in Augmented Reality,” In *Proc. the 1st Workshop on Enhancing Security, Privacy, and Trust in Extended Reality (XR) Systems* at *ACM MobiHoc*, 2025. [(Paper)]({{ '/files/Paper/MRSecurity_2025_PerceptionGraph.pdf' | relative_url }}) [(Link)](https://dl.acm.org/doi/10.1145/3704413.3765312)
 
 - **Shu Hong**, Xiaojun Lin, Lingjie Duan, “Lightweight Federated Learning with Differential Privacy and Straggler Resilience,” In *Proc. IEEE Conference on Computer Communications (INFOCOM)*, 2025. [(Paper)]({{ '/files/Paper/INFOCOM_2025_LightDP_FL.pdf' | relative_url }}) [(Link)](https://ieeexplore.ieee.org/document/11044562)
 
