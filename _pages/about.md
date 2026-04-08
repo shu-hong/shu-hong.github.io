@@ -32,9 +32,9 @@ I was a visiting student at Purdue University, hosted by Prof. [Xiaojun Lin](htt
 
 My work builds *trustworthy and efficient AI/ML* for edge, networked, and cyber-physical systems, unifying machine learning with networking, privacy and security, incentives, and systems co-design. The goal is deployable intelligence that respects real-world constraints in cyber-physical and distributed environments and supports human and organizational decision-making.
 
-- Machine learning algorithms: federated and split learning, reinforcement learning, membership-safe fine-tuning
+- Machine learning algorithms: federated and split learning, reinforcement learning
 
-- Network privacy and security: differential privacy, secure multi-party computation
+- Network privacy and security: differential privacy, secure multi-party computation, membership-safe fine-tuning
 
 - AI-system co-design: wireless/IoT networks, edge/fog computing, cyber-physical applications such as IC design and mixed reality
 
