@@ -73,3 +73,18 @@ Processes with Spectral Representations,” *arXiv preprint* arXiv:2511.07734. [
 - **Shu Hong**, Lingjie Duan. “Crowdsourced Privacy Protection Game against Adversary through Multi-user Location Obfuscation.” *IEEE Transactions on Mobile Computing*, 2023. [(Paper)]({{ '/files/Paper/TMC_2023_MultiUserPrivacy.pdf' | relative_url }})
 
 - **Shu Hong**, Lingjie Duan, Jianwei Huang. “Protecting Location Privacy by Multi-Query: A Dynamic Bayesian Game Theoretic Approach.” *IEEE Transactions on Information Forensics and Security*, 2022. [(Paper)]({{ '/files/Paper/TIFS_2022_Multiquery.pdf' | relative_url }})
+
+
+# Selected Awards
+
+- N2Women Young Researcher Fellowship, 2025
+
+- Best Poster/Demo Award, Workshop on Enhancing Security, Privacy, and Trust in Extended Reality (XR) Systems, ACM MobiHoc, 2025.
+
+- Outstanding Thesis Award, Engineering Systems and Design Pillar, SUTD, 2023
+
+- President's Graduate Fellowship SUTD, 2018-2023
+
+- Student Travel Grant, IEEE Information Theory Society, 2022
+
+
