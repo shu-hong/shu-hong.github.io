@@ -41,6 +41,8 @@ My work builds *trustworthy and efficient AI/ML* for edge, networked, and cyber-
 - Optimization and decision-making: game theory, mechanism design, decision making under uncertainty
 
 # News
+- *Apr. 2026*: Our work "Recovering Reward Functions from Distributed Expert Demonstrations via Bi-level Maximum-likelihood Optimization" was accepted in the IEEE Transactions on Neural Networks and Learning Systems (TNNLS).
+
 - *Jan. 2026*: Our work "[Workflow Search Reinforcement Learning over Structured Decompositions]({{ '/files/Paper/L4DC_2026_Workflow_Search_RL.pdf' | relative_url }})" was accepted at the Annual Learning for Dynamics and Control Conference (L4DC), 2026.
 
 - *Oct. 2025*: Our work "Time-Aware LSTM for Gaze Prediction in Mixed Reality Under Latency Perturbations" received the Best Poster/Demo Award at the ACM MobiHoc XR Security Workshop.
