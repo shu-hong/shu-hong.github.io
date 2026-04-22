@@ -20,9 +20,9 @@ My research builds ***trustworthy and efficient AI systems*** under privacy, str
 ## Preprints
 - **Shu Hong**, Yongsheng Mei, Mahdi Imani, Tian Lan, “Global Optimization on Graph-Structured Data via Gaussian Processes with Spectral Representations,” *arXiv preprint* arXiv:2511.07734, 2025. [(Paper)](https://arxiv.org/pdf/2511.07734)
 
-- Zeyu Fang, **Shu Hong**, Huu Trung Thieu, Nakjung Choi, Tian Lan. “ZODIAC: Zero-shot Offline Diffusion for Inferring Multi-xApps Conflicts in Open Radio Access Networks,” *arXiv preprint* arXiv:2604.19610, 2026. [(Paper)](https://arxiv.org/pdf/2604.19610) 
+- Zeyu Fang, **Shu Hong**, Huu Trung Thieu, Nakjung Choi, Tian Lan, “ZODIAC: Zero-shot Offline Diffusion for Inferring Multi-xApps Conflicts in Open Radio Access Networks,” *arXiv preprint* arXiv:2604.19610, 2026. [(Paper)](https://arxiv.org/pdf/2604.19610) 
 
-- Qiufeng Li, **Shu Hong**, Jian Gao, Xuan Zhang, Tian Lan, Weidong Cao. “AnalogFed: Federated Discovery of Analog Circuit Topologies with Generative AI,” *arXiv preprint* arXiv:2507.15104, 2025. [(Paper)](https://arxiv.org/pdf/2507.15104) 
+- Qiufeng Li, **Shu Hong**, Jian Gao, Xuan Zhang, Tian Lan, Weidong Cao, “AnalogFed: Federated Discovery of Analog Circuit Topologies with Generative AI,” *arXiv preprint* arXiv:2507.15104, 2025. [(Paper)](https://arxiv.org/pdf/2507.15104) 
 
 
 ## Journals
