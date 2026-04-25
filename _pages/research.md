@@ -27,7 +27,7 @@ My research builds ***trustworthy and efficient AI systems*** under privacy, str
 
 ## Journals
 
-- Guangyu Jiang, **Shu Hong**, Mahdi Imani, Nathaniel D. Bastian and Tian Lan, "Recovering Reward Functions from Distributed Expert Demonstrations via Bi-level Maximum-likelihood Optimization," accepted for publication in *IEEE Transactions on Neural Networks and Learning Systems (TNNLS)*, 2026.
+- Guangyu Jiang, **Shu Hong**, Mahdi Imani, Nathaniel D. Bastian and Tian Lan, "Recovering Reward Functions from Distributed Expert Demonstrations via Bi-level Maximum-likelihood Optimization," accepted for publication in *IEEE Transactions on Neural Networks and Learning Systems (TNNLS)*, 2026. [(Paper)]({{ '/files/Paper/TNNLS_2026_Federated_Inverse_Reinforcement_Learning.pdf' | relative_url }})
 
 - **Shu Hong**, Lingjie Duan, “Crowdsourced Privacy Protection Game against Adversary through Multi-user Location Obfuscation,” *IEEE Transactions on Mobile Computing (TMC)*, 2023. [(Paper)]({{ '/files/Paper/TMC_2023_MultiUserPrivacy.pdf' | relative_url }}) [(Link)](https://ieeexplore.ieee.org/document/10054135)
 
