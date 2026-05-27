@@ -26,7 +26,7 @@ My research builds ***trustworthy and efficient AI systems*** under privacy, str
 
 ## Journals
 
-- Guangyu Jiang, **Shu Hong**, Mahdi Imani, Nathaniel D. Bastian and Tian Lan, "Recovering Reward Functions from Distributed Expert Demonstrations via Bi-level Maximum-likelihood Optimization," *IEEE Transactions on Neural Networks and Learning Systems (TNNLS)*, 2026. [(Paper)]({{ '/files/Paper/TNNLS_2026_Federated_Inverse_Reinforcement_Learning.pdf' | relative_url }})
+- Guangyu Jiang, **Shu Hong**, Mahdi Imani, Nathaniel D. Bastian and Tian Lan, "Recovering Reward Functions from Distributed Expert Demonstrations via Bi-level Maximum-likelihood Optimization," *IEEE Transactions on Neural Networks and Learning Systems (TNNLS)*, 2026. [(Paper)]({{ '/files/Paper/TNNLS_2026_Federated_Inverse_Reinforcement_Learning.pdf' | relative_url }}) [(Link)](https://ieeexplore.ieee.org/abstract/document/11526810)
 
 - **Shu Hong**, Lingjie Duan, “Crowdsourced Privacy Protection Game against Adversary through Multi-user Location Obfuscation,” *IEEE Transactions on Mobile Computing (TMC)*, 2023. [(Paper)]({{ '/files/Paper/TMC_2023_MultiUserPrivacy.pdf' | relative_url }}) [(Link)](https://ieeexplore.ieee.org/document/10054135)
 
@@ -34,7 +34,7 @@ My research builds ***trustworthy and efficient AI systems*** under privacy, str
 
 ## Conference Proceedings
 
-- Qiufeng Li, **Shu Hong**, Jian Gao, Xuan Zhang, Tian Lan, Weidong Cao, “AnalogFed: Privacy-Preserving Discovery of Analog Circuits at Scale with Federated Generative AI,” *IEEE International Conference on LLM-Aided Design (LAD)*, 2026. [(Paper)](https://arxiv.org/pdf/2507.15104) 
+- Qiufeng Li, **Shu Hong**, Tian Lan, Weidong Cao, “AnalogFed: Privacy-Preserving Discovery of Analog Circuits at Scale with Federated Generative AI,” *IEEE International Conference on LLM-Aided Design (LAD)*, 2026. [(Paper)](https://arxiv.org/pdf/2507.15104)  
 
 - Guangyu Jiang, **Shu Hong**, Mahdi Imani, Nathaniel D. Bastian and Tian Lan, "Workflow Search Reinforcement Learning over Structured Decompositions," in *Proc. Annual Learning for Dynamics and Control Conference (L4DC)*, 2026. [(Paper)]({{ '/files/Paper/L4DC_2026_Workflow_Search_RL.pdf' | relative_url }}) 
 

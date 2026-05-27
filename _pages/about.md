@@ -48,7 +48,7 @@ My work builds *trustworthy and efficient AI/ML* for edge, networked, and cyber-
 
 - *Oct. 2025*: Our work "Time-Aware LSTM for Gaze Prediction in Mixed Reality Under Latency Perturbations" received the Best Poster/Demo Award at the ACM MobiHoc XR Security Workshop.
 
-- *Oct. 2025*: I presented our work "Time-Aware LSTM for Gaze Prediction in Mixed Reality Under Latency Perturbations" and "Perception Graph for Cognitive Attack Reasoning in Augmented Reality" at the ACM MobiHoc XR Security Workshop.
+<!-- - *Oct. 2025*: I presented our work "Time-Aware LSTM for Gaze Prediction in Mixed Reality Under Latency Perturbations" and "Perception Graph for Cognitive Attack Reasoning in Augmented Reality" at the ACM MobiHoc XR Security Workshop. -->
 
 - *May 2025*: I presented our work "[Lightweight Federated Learning with Differential Privacy and Straggler Resilience]({{ '/files/Paper/INFOCOM_2025_LightDP_FL.pdf' | relative_url }})" at IEEE INFOCOM 2025.
 
