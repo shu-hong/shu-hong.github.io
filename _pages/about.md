@@ -54,7 +54,6 @@ My work builds *trustworthy and efficient AI/ML* for edge, networked, and cyber-
 
 - *May 2025*: I co-organized and moderated the [“Tech Leadership and Diversity” panel](https://infocom2025.ieee-infocom.org/program/wice), jointly organized by WICE, N2Women, and ACM-W.
 
-- *Apr. 2025*: I received the N2Women Young Researcher Fellowship.
 
 
 

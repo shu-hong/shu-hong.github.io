@@ -22,18 +22,20 @@ My research builds ***trustworthy and efficient AI systems*** under privacy, str
 
 - Zeyu Fang, **Shu Hong**, Huu Trung Thieu, Nakjung Choi, Tian Lan, “ZODIAC: Zero-shot Offline Diffusion for Inferring Multi-xApps Conflicts in Open Radio Access Networks,” *arXiv preprint* arXiv:2604.19610, 2026. [(Paper)](https://arxiv.org/pdf/2604.19610) 
 
-- Qiufeng Li, **Shu Hong**, Jian Gao, Xuan Zhang, Tian Lan, Weidong Cao, “AnalogFed: Federated Discovery of Analog Circuit Topologies with Generative AI,” *arXiv preprint* arXiv:2507.15104, 2025. [(Paper)](https://arxiv.org/pdf/2507.15104) 
 
 
 ## Journals
 
-- Guangyu Jiang, **Shu Hong**, Mahdi Imani, Nathaniel D. Bastian and Tian Lan, "Recovering Reward Functions from Distributed Expert Demonstrations via Bi-level Maximum-likelihood Optimization," accepted for publication in *IEEE Transactions on Neural Networks and Learning Systems (TNNLS)*, 2026. [(Paper)]({{ '/files/Paper/TNNLS_2026_Federated_Inverse_Reinforcement_Learning.pdf' | relative_url }})
+- Guangyu Jiang, **Shu Hong**, Mahdi Imani, Nathaniel D. Bastian and Tian Lan, "Recovering Reward Functions from Distributed Expert Demonstrations via Bi-level Maximum-likelihood Optimization," *IEEE Transactions on Neural Networks and Learning Systems (TNNLS)*, 2026. [(Paper)]({{ '/files/Paper/TNNLS_2026_Federated_Inverse_Reinforcement_Learning.pdf' | relative_url }})
 
 - **Shu Hong**, Lingjie Duan, “Crowdsourced Privacy Protection Game against Adversary through Multi-user Location Obfuscation,” *IEEE Transactions on Mobile Computing (TMC)*, 2023. [(Paper)]({{ '/files/Paper/TMC_2023_MultiUserPrivacy.pdf' | relative_url }}) [(Link)](https://ieeexplore.ieee.org/document/10054135)
 
 - **Shu Hong**, Lingjie Duan, Jianwei Huang, “Protecting Location Privacy by Multi-Query: A Dynamic Bayesian Game Theoretic Approach,” *IEEE Transactions on Information Forensics and Security (TIFS)*, 2022. [(Paper)]({{ '/files/Paper/TIFS_2022_Multiquery.pdf' | relative_url }}) [(Link)](https://ieeexplore.ieee.org/abstract/document/9819902)
 
 ## Conference Proceedings
+
+- Qiufeng Li, **Shu Hong**, Jian Gao, Xuan Zhang, Tian Lan, Weidong Cao, “AnalogFed: Privacy-Preserving Discovery of Analog Circuits at Scale with Federated Generative AI,” *IEEE International Conference on LLM-Aided Design (LAD)*, 2026. [(Paper)](https://arxiv.org/pdf/2507.15104) 
+
 - Guangyu Jiang, **Shu Hong**, Mahdi Imani, Nathaniel D. Bastian and Tian Lan, "Workflow Search Reinforcement Learning over Structured Decompositions," in *Proc. Annual Learning for Dynamics and Control Conference (L4DC)*, 2026. [(Paper)]({{ '/files/Paper/L4DC_2026_Workflow_Search_RL.pdf' | relative_url }}) 
 
 - **Shu Hong**, Xiaojun Lin, Lingjie Duan, “Lightweight Federated Learning with Differential Privacy and Straggler Resilience,” In *Proc. IEEE Conference on Computer Communications (INFOCOM)*, 2025. [(Paper)]({{ '/files/Paper/INFOCOM_2025_LightDP_FL.pdf' | relative_url }}) [(Link)](https://ieeexplore.ieee.org/document/11044562)
