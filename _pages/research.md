@@ -18,9 +18,13 @@ My research builds ***trustworthy and efficient AI systems*** under privacy, str
 <!-- <div style="font-size:0.95em; line-height:1.5;"> -->
 
 ## Preprints
-- **Shu Hong**, Yongsheng Mei, Mahdi Imani, Tian Lan, “Global Optimization on Graph-Structured Data via Gaussian Processes with Spectral Representations,” *arXiv preprint* arXiv:2511.07734, 2025. [(Paper)](https://arxiv.org/pdf/2511.07734)
+- Yu Li, **Shu Hong**, Tian Lan, “Localizing Credit at the Divergence: Path-Conditioned Self-Distillation for LLM Reasoning,” *arXiv preprint* arXiv:2606.15576, 2026. [(Paper)](https://arxiv.org/pdf/2606.15576) 
 
 - Zeyu Fang, **Shu Hong**, Huu Trung Thieu, Nakjung Choi, Tian Lan, “ZODIAC: Zero-shot Offline Diffusion for Inferring Multi-xApps Conflicts in Open Radio Access Networks,” *arXiv preprint* arXiv:2604.19610, 2026. [(Paper)](https://arxiv.org/pdf/2604.19610) 
+
+- **Shu Hong**, Yongsheng Mei, Mahdi Imani, Tian Lan, “Global Optimization on Graph-Structured Data via Gaussian Processes with Spectral Representations,” *arXiv preprint* arXiv:2511.07734, 2025. [(Paper)](https://arxiv.org/pdf/2511.07734)
+
+
 
 
 
