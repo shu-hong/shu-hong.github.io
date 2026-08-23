@@ -45,6 +45,8 @@ My work builds *trustworthy and efficient AI/ML* for edge, networked, and cyber-
 # News
 - *Aug. 2026*: Our work "Model-based Zero-Shot Conflict Detection Framework via Gradients in O-RAN" was accepted in the 27th International Symposium on Theory, Algorithmic Foundations, and Protocol Design for Mobile Networks and Mobile Computing (ACM MobiHoc 2026).
 
+- *May 2026*: Our work "AnalogFed: Privacy-Preserving Discovery of Analog Circuits at Scale with Federated Generative AI" was accepted in the IEEE International Conference on LLM-Aided Design (LAD).
+
 - *Apr. 2026*: Our work "[Recovering Reward Functions from Distributed Expert Demonstrations via Bi-level Maximum-likelihood Optimization]({{ '/files/Paper/TNNLS_2026_Federated_Inverse_Reinforcement_Learning.pdf' | relative_url }})" was accepted in the IEEE Transactions on Neural Networks and Learning Systems (TNNLS).
 
 
