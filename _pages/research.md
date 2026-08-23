@@ -31,7 +31,7 @@ My research builds ***trustworthy and efficient AI systems*** under privacy, str
 
 ## Conference Proceedings
 
-- Zeyu Fang, **Shu Hong**, Huu Trung Thieu, Nakjung Choi, Tian Lan, “ZODIAC: Zero-shot Offline Diffusion for Inferring Multi-xApps Conflicts in Open Radio Access Networks,” in *Proc. International Symposium on Theory, Algorithmic Foundations, and *Protocol Design for Mobile Networks and Mobile Computing (ACM MobiHoc)**, 2026. [(Paper)](https://arxiv.org/pdf/2604.19610)
+- Zeyu Fang, **Shu Hong**, Huu Trung Thieu, Nakjung Choi, Tian Lan, “ZODIAC: Zero-shot Offline Diffusion for Inferring Multi-xApps Conflicts in Open Radio Access Networks,” in *Proc. ACM International Symposium on Theory, Algorithmic Foundations, and Protocol Design for Mobile Networks and Mobile Computing (MobiHoc)*, 2026. [(Paper)](https://arxiv.org/pdf/2604.19610)
 - Qiufeng Li, **Shu Hong**, Tian Lan, Weidong Cao, “AnalogFed: Privacy-Preserving Discovery of Analog Circuits at Scale with Federated Generative AI,” in Proc. *IEEE International Conference on LLM-Aided Design (LAD)*, 2026. [(Paper)](https://arxiv.org/pdf/2507.15104)
 - Guangyu Jiang, **Shu Hong**, Mahdi Imani, Nathaniel D. Bastian and Tian Lan, "Workflow Search Reinforcement Learning over Structured Decompositions," in *Proc. Annual Learning for Dynamics and Control Conference (L4DC)*, 2026. [(Paper)]({{ '/files/Paper/L4DC_2026_Workflow_Search_RL.pdf' | relative_url }})
 - **Shu Hong**, Xiaojun Lin, Lingjie Duan, “Lightweight Federated Learning with Differential Privacy and Straggler Resilience,” In *Proc. IEEE Conference on Computer Communications (INFOCOM)*, 2025. [(Paper)]({{ '/files/Paper/INFOCOM_2025_LightDP_FL.pdf' | relative_url }}) [(Link)](https://ieeexplore.ieee.org/document/11044562)
