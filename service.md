@@ -12,9 +12,11 @@ collection: service
 <!-- </div> -->
 
 ### Program Committee
-- Agentic and Decentralized Coordination for Softwarized Networks  Workshop (ADeCoS), 2026
-
 - Annual AAAI Conference on Artificial Intelligence (AAAI) 
+
+- The International Conference on Wireless Communications and Signal Processing (WCSP), 2026
+
+- Agentic and Decentralized Coordination for Softwarized Networks  Workshop (ADeCoS), 2026
 
 ### Organizer
 - Panel organizer and moderator, [“Tech Leadership and Diversity”](https://infocom2025.ieee-infocom.org/program/wice), WICE/N2Women/ACM-W joint panel at IEEE INFOCOM, London, UK, May 2025.
