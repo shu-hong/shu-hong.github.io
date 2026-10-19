@@ -321,19 +321,19 @@ main.container {
 
 /* ---------- Home: news ---------- */
 
-ul.news {
+:is(ul.news, #news + ul) {
   list-style: none;
   padding: 0;
 }
 
-ul.news > li {
+:is(ul.news, #news + ul) > li {
   position: relative;
   padding-left: 6.75rem;
   margin-bottom: 0.7rem;
 }
 
-ul.news > li > em:first-child,
-ul.news > li > p > em:first-child {
+:is(ul.news, #news + ul) > li > em:first-child,
+:is(ul.news, #news + ul) > li > p > em:first-child {
   position: absolute;
   left: 0;
   top: 0.12em;
@@ -348,7 +348,7 @@ ul.news > li > p > em:first-child {
   white-space: nowrap;
 }
 
-ul.news.is-collapsed > li:nth-child(n + 7) { display: none; }
+:is(ul.news, #news + ul).is-collapsed > li:nth-child(n + 7) { display: none; }
 
 .news__more {
   border: 1px solid var(--border);
@@ -364,9 +364,9 @@ ul.news.is-collapsed > li:nth-child(n + 7) { display: none; }
 .news__more:hover { background: var(--bg-soft); }
 
 @media (max-width: 520px) {
-  ul.news > li { padding-left: 0; }
-  ul.news > li > em:first-child,
-  ul.news > li > p > em:first-child { position: static; display: inline-block; margin-right: 0.4rem; }
+  :is(ul.news, #news + ul) > li { padding-left: 0; }
+  :is(ul.news, #news + ul) > li > em:first-child,
+  :is(ul.news, #news + ul) > li > p > em:first-child { position: static; display: inline-block; margin-right: 0.4rem; }
 }
 
 /* ---------- CV entries (Experience page) ---------- */
@@ -436,7 +436,7 @@ ul.news.is-collapsed > li:nth-child(n + 7) { display: none; }
 .notice {
   display: flex;
   gap: 0.85rem;
-  align-items: flex-start;
+  align-items: center;
   background: var(--accent-soft);
   border: 1px solid color-mix(in srgb, var(--accent) 22%, transparent);
   border-radius: 12px;
@@ -455,7 +455,6 @@ ul.news.is-collapsed > li:nth-child(n + 7) { display: none; }
   background: var(--accent);
   color: var(--bg);
   font-size: 0.9rem;
-  margin-top: 0.1rem;
 }
 
 .notice p { margin: 0; font-size: 0.97rem; line-height: 1.6; }

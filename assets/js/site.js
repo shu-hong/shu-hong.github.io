@@ -34,7 +34,7 @@
 
   // News: show the most recent items, fold the rest behind a button.
   var NEWS_VISIBLE = 6;
-  document.querySelectorAll("ul.news").forEach(function (list) {
+  document.querySelectorAll("ul.news, #news + ul").forEach(function (list) {
     var items = list.querySelectorAll(":scope > li");
     if (items.length <= NEWS_VISIBLE + 2) return;
     list.classList.add("is-collapsed");
