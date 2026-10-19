@@ -48,4 +48,14 @@
     });
     list.insertAdjacentElement("afterend", btn);
   });
+
+  // Open external sites and files (PDFs, slides) in a new tab; links between site pages stay in place.
+  document.querySelectorAll("a[href]").forEach(function (a) {
+    if (!/^https?:$/.test(a.protocol)) return;
+    var external = a.host !== window.location.host;
+    var file = /\.(pdf|pptx?|zip)$/i.test(a.pathname) || a.pathname.indexOf("/files/") === 0;
+    if (!external && !file) return;
+    a.target = "_blank";
+    a.rel = "noopener noreferrer";
+  });
 })();
