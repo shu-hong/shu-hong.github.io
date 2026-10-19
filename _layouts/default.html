@@ -5,27 +5,25 @@ layout: compress
 {% include base_path %}
 
 <!doctype html>
-<html lang="{{ site.locale | slice: 0,2 }}" class="no-js">
+<html lang="{{ site.locale | slice: 0,2 }}">
   <head>
     {% include head.html %}
     {% include head/custom.html %}
   </head>
 
-
-    {% include browser-upgrade.html %}
+  <body>
     {% include masthead.html %}
 
-    {{ content }}
+    <main class="container" id="main">
+      {{ content }}
+    </main>
 
-    <div class="page__footer">
-      <footer>
-        {% include footer/custom.html %}
+    <footer class="site-footer">
+      <div class="container">
         {% include footer.html %}
-      </footer>
-    </div>
+      </div>
+    </footer>
 
     {% include scripts.html %}
-
   </body>
 </html>
-

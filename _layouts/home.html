@@ -1,0 +1,50 @@
+---
+layout: default
+---
+
+{% include base_path %}
+{% assign author = site.author %}
+{% assign parts = content | split: "<!-- /bio -->" %}
+
+<section class="profile">
+  <header class="profile__head">
+    <h1 class="profile__name">{{ author.name }}</h1>
+    {% if author.position %}<p class="profile__role">{{ author.position }}</p>{% endif %}
+    {% if author.department %}<p class="profile__affil">{{ author.department }}</p>{% endif %}
+    {% if author.employer %}<p class="profile__affil">{{ author.employer }}</p>{% endif %}
+  </header>
+
+  <div class="profile__body">
+    <div class="profile__bio">
+      {{ parts[0] }}
+    </div>
+
+    <aside class="profile__card">
+      <img class="profile__photo" src="{{ base_path }}/images/{{ author.avatar }}" alt="Photo of {{ author.name }}" width="720" height="720">
+
+      <ul class="profile__links">
+        {% if author.email %}
+          <li><a href="mailto:{{ author.email }}"><i class="fa-solid fa-envelope" aria-hidden="true"></i>{{ author.email }}</a></li>
+        {% endif %}
+        {% if author.cv %}
+          <li><a href="{{ author.cv | relative_url }}"><i class="fa-solid fa-file-lines" aria-hidden="true"></i>CV</a></li>
+        {% endif %}
+        {% if author.googlescholar %}
+          <li><a href="{{ author.googlescholar }}"><i class="ai ai-google-scholar" aria-hidden="true"></i>Google Scholar</a></li>
+        {% endif %}
+        {% if author.github %}
+          <li><a href="https://github.com/{{ author.github }}"><i class="fa-brands fa-github" aria-hidden="true"></i>GitHub</a></li>
+        {% endif %}
+        {% if author.linkedin %}
+          <li><a href="https://www.linkedin.com/in/{{ author.linkedin }}"><i class="fa-brands fa-linkedin" aria-hidden="true"></i>LinkedIn</a></li>
+        {% endif %}
+      </ul>
+    </aside>
+  </div>
+</section>
+
+{% if parts[1] %}
+<div class="page__content home__content">
+  {{ parts[1] }}
+</div>
+{% endif %}

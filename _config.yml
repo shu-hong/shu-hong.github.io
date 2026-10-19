@@ -10,7 +10,7 @@
 locale                   : "en-US"
 site_theme               : "default"
 title                    : "Shu Hong"
-title_separator          : "-"
+title_separator          : "|"
 name                     : &name "Shu Hong"
 description              : &description "personal description"
 url                      : https://shu-hong.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
@@ -22,12 +22,16 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar: "photo_shu.jpg"
+  avatar: "profile.jpg"
   name             : "Shu Hong"
   pronouns         : # example: "she/her"  
   #bio              : "Short biography for the left-hand sidebar"
+  position         : "Postdoctoral Associate"
+  department       : "Department of Electrical and Computer Engineering"
   location         : "Washington, DC"
-  employer         : "George Washington University"
+  employer         : "The George Washington University"
+  cv               : # e.g. "/files/CV_Shu_Hong.pdf"
+  linkedin         : # profile slug, e.g. "shu-hong"
   #uri              : # URL
   email            : "shu.hong@gwu.edu" 
 

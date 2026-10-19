@@ -1,8 +1,7 @@
 ---
-layout: single
+layout: home
 permalink: /
 title: "About Me"
-author_profile: true
 redirect_from:
   - /about/
   - /about.html
@@ -26,7 +25,12 @@ redirect_from:
 I am currently a postdoctoral associate in the Department of Electrical and Computer Engineering at the George Washington University, advised by Prof. [Tian Lan](https://www2.seas.gwu.edu/~tlan/). I received my Ph.D. degree from the Engineering Systems and Design Department at Singapore University of Technology and Design in 2023, advised by Prof. [Lingjie Duan](https://personal.hkust-gz.edu.cn/lingjieduan/).
 I was a visiting student at Purdue University, hosted by Prof. [Xiaojun Lin](https://staff.ie.cuhk.edu.hk/~xjlin/), and a postdoctoral fellow at the University of British Columbia, working with Prof. [Vincent Wong](https://people.ece.ubc.ca/~vincentw/Homepage/Home.html). I obtained my B.Eng degree in Information Engineering from Southeast University, Nanjing, China, in 2018.
 
-<!-- **I am on the 2026&ndash;2027 academic job market and seeking tenure-track faculty positions. Please feel free to [reach out](mailto:shu.hong@gwu.edu) if my background is a good fit. I would be glad to connect.** -->
+<div class="notice">
+  <span class="notice__icon"><i class="fa-solid fa-briefcase" aria-hidden="true"></i></span>
+  <p><strong>I am on the 2026&ndash;2027 job market.</strong> Please feel free to <a href="mailto:shu.hong@gwu.edu">reach out</a> if my background is a good fit. I would be glad to connect.</p>
+</div>
+
+<!-- /bio -->
 
 
 
@@ -43,24 +47,17 @@ My work builds *trustworthy and efficient AI/ML* for edge, networked, and cyber-
 - Optimization and decision-making: game theory, mechanism design, decision making under uncertainty
 
 # News
-- *Aug. 2026*: Our work "Model-based Zero-Shot Conflict Detection Framework via Gradients in O-RAN" was accepted in the 27th International Symposium on Theory, Algorithmic Foundations, and Protocol Design for Mobile Networks and Mobile Computing (ACM MobiHoc 2026).
 
-- *May 2026*: Our work "AnalogFed: Privacy-Preserving Discovery of Analog Circuits at Scale with Federated Generative AI" was accepted in the IEEE International Conference on LLM-Aided Design (LAD).
-
-- *Apr. 2026*: Our work "[Recovering Reward Functions from Distributed Expert Demonstrations via Bi-level Maximum-likelihood Optimization]({{ '/files/Paper/TNNLS_2026_Federated_Inverse_Reinforcement_Learning.pdf' | relative_url }})" was accepted in the IEEE Transactions on Neural Networks and Learning Systems (TNNLS).
-
-
-- *Jan. 2026*: Our work "[Workflow Search Reinforcement Learning over Structured Decompositions]({{ '/files/Paper/L4DC_2026_Workflow_Search_RL.pdf' | relative_url }})" was accepted at the Annual Learning for Dynamics and Control Conference (L4DC), 2026.
-
-- *Oct. 2025*: Our work "Time-Aware LSTM for Gaze Prediction in Mixed Reality Under Latency Perturbations" received the Best Poster/Demo Award at the ACM MobiHoc XR Security Workshop.
+- *Aug. 2026* Our work "Model-based Zero-Shot Conflict Detection Framework via Gradients in O-RAN" was accepted in the 27th International Symposium on Theory, Algorithmic Foundations, and Protocol Design for Mobile Networks and Mobile Computing (ACM MobiHoc 2026).
+- *May 2026* Our work "AnalogFed: Privacy-Preserving Discovery of Analog Circuits at Scale with Federated Generative AI" was accepted in the IEEE International Conference on LLM-Aided Design (LAD).
+- *Apr. 2026* Our work "[Recovering Reward Functions from Distributed Expert Demonstrations via Bi-level Maximum-likelihood Optimization]({{ '/files/Paper/TNNLS_2026_Federated_Inverse_Reinforcement_Learning.pdf' | relative_url }})" was accepted in the IEEE Transactions on Neural Networks and Learning Systems (TNNLS).
+- *Jan. 2026* Our work "[Workflow Search Reinforcement Learning over Structured Decompositions]({{ '/files/Paper/L4DC_2026_Workflow_Search_RL.pdf' | relative_url }})" was accepted at the Annual Learning for Dynamics and Control Conference (L4DC), 2026.
+- *Oct. 2025* Our work "Time-Aware LSTM for Gaze Prediction in Mixed Reality Under Latency Perturbations" received the Best Poster/Demo Award at the ACM MobiHoc XR Security Workshop.
+- *May 2025* I presented our work "[Lightweight Federated Learning with Differential Privacy and Straggler Resilience]({{ '/files/Paper/INFOCOM_2025_LightDP_FL.pdf' | relative_url }})" at IEEE INFOCOM 2025.
+- *May 2025* I co-organized and moderated the [“Tech Leadership and Diversity” panel](https://infocom2025.ieee-infocom.org/program/wice), jointly organized by WICE, N2Women, and ACM-W.
+{: .news}
 
 <!-- - *Oct. 2025*: I presented our work "Time-Aware LSTM for Gaze Prediction in Mixed Reality Under Latency Perturbations" and "Perception Graph for Cognitive Attack Reasoning in Augmented Reality" at the ACM MobiHoc XR Security Workshop. -->
-
-- *May 2025*: I presented our work "[Lightweight Federated Learning with Differential Privacy and Straggler Resilience]({{ '/files/Paper/INFOCOM_2025_LightDP_FL.pdf' | relative_url }})" at IEEE INFOCOM 2025.
-
-- *May 2025*: I co-organized and moderated the [“Tech Leadership and Diversity” panel](https://infocom2025.ieee-infocom.org/program/wice), jointly organized by WICE, N2Women, and ACM-W.
-
-
 
 
 # Selected Publications
@@ -72,7 +69,7 @@ Processes with Spectral Representations,” *arXiv preprint* arXiv:2511.07734. [
 
 <!-- - Qiufeng Li, **Shu Hong**, Jian Gao, Xuan Zhang, Tian Lan, Weidong Cao. “AnalogFed: Federated Discovery of Analog Circuit Topologies with Generative AI.” *arXiv preprint* arXiv:2507.15104. [PDF](https://arxiv.org/pdf/2507.15104) -->
 
-- **Shu Hong**, Xiaojun Lin, Lingjie Duan. “Lightweight Federated Learning with Differential Privacy and Straggler Resilience.” In *Proc. IEEE IEEE Conference on Computer Communication (INFOCOM)*, 2025. [(Paper)]({{ '/files/Paper/INFOCOM_2025_LightDP_FL.pdf' | relative_url }})
+- **Shu Hong**, Xiaojun Lin, Lingjie Duan. “Lightweight Federated Learning with Differential Privacy and Straggler Resilience.” In *Proc. IEEE Conference on Computer Communications (INFOCOM)*, 2025. [(Paper)]({{ '/files/Paper/INFOCOM_2025_LightDP_FL.pdf' | relative_url }})
 
 - **Shu Hong**, Lingjie Duan. “Crowdsourced Privacy Protection Game against Adversary through Multi-user Location Obfuscation.” *IEEE Transactions on Mobile Computing*, 2023. [(Paper)]({{ '/files/Paper/TMC_2023_MultiUserPrivacy.pdf' | relative_url }})
 

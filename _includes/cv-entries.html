@@ -1,0 +1,26 @@
+{%- comment -%}
+  Renders a list of CV entries. Usage: {% include cv-entries.html entries=site.data.experience.work %}
+{%- endcomment -%}
+<div class="cv-list">
+{%- for e in include.entries -%}
+<div class="cv-entry">
+<div class="cv-entry__head">
+<div class="cv-entry__main">
+<h3 class="cv-entry__org">{{ e.org }}</h3>
+<p class="cv-entry__role">{{ e.role }}{% if e.unit %}<span class="cv-entry__sep"> · </span>{{ e.unit }}{% endif %}</p>
+</div>
+<div class="cv-entry__meta">
+<span class="cv-entry__dates">{{ e.dates }}</span>
+{%- if e.location %}<span class="cv-entry__loc">{{ e.location }}</span>{% endif -%}
+</div>
+</div>
+{%- if e.details -%}
+<ul class="cv-entry__details">
+{%- for d in e.details -%}
+<li>{{ d | markdownify | remove: "<p>" | remove: "</p>" | strip }}</li>
+{%- endfor -%}
+</ul>
+{%- endif -%}
+</div>
+{%- endfor -%}
+</div>

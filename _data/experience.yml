@@ -1,0 +1,42 @@
+# Entries for the Experience page (_pages/experience.md).
+# Each entry: org, role, unit (optional), dates, location, details (optional list; Markdown allowed).
+
+work:
+  - org: "The George Washington University (GWU)"
+    role: "Postdoctoral Associate"
+    unit: "Department of Electrical and Computer Engineering"
+    dates: "2025 – Present"
+    location: "Washington, DC, USA"
+    details:
+      - "Advisor: [Prof. Tian Lan](https://www2.seas.gwu.edu/~tlan/)"
+
+  - org: "The University of British Columbia (UBC)"
+    role: "Postdoctoral Research Fellow"
+    unit: "Department of Electrical and Computer Engineering"
+    dates: "2023 – 2024"
+    location: "British Columbia, Canada"
+    details:
+      - "Advisor: [Prof. Vincent W.S. Wong](https://people.ece.ubc.ca/vincentw/Homepage/Home.html)"
+
+education:
+  - org: "Singapore University of Technology and Design (SUTD)"
+    role: "Ph.D. in Engineering Systems and Design"
+    dates: "2018 – 2023"
+    location: "Singapore"
+    details:
+      - "Advisor: [Prof. Lingjie Duan](https://people.sutd.edu.sg/~lingjie_duan)"
+
+  - org: "Purdue University"
+    role: "Visiting Scholar"
+    unit: "School of Electrical and Computer Engineering"
+    dates: "2022 – 2023"
+    location: "Indiana, USA"
+    details:
+      - "Advisor: [Prof. Xiaojun Lin](https://staff.ie.cuhk.edu.hk/~xjlin)"
+
+  - org: "Southeast University"
+    role: "B.Eng. in Information Engineering"
+    dates: "2014 – 2018"
+    location: "Nanjing, China"
+    details:
+      - "Research Assistant, National Mobile Communications Research Laboratory"

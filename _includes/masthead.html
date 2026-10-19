@@ -1,23 +1,29 @@
 {% include base_path %}
 
-<div class="masthead">
-  <div class="masthead__inner-wrap">
-    <div class="masthead__menu">
-      <nav id="site-nav" class="greedy-nav">
-        <button><div class="navicon"></div></button>
-        <ul class="visible-links">
-          <li class="masthead__menu-item masthead__menu-item--lg"><a href="{{ base_path }}/">{{ site.title }}</a></li>
-          {% for link in site.data.navigation.main %}
-            {% if link.url contains 'http' %}
-              {% assign domain = '' %}
-              {% else %}
-              {% assign domain = base_path %}
-            {% endif %}
-            <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
-          {% endfor %}
-        </ul>
-        <ul class="hidden-links hidden"></ul>
-      </nav>
-    </div>
-  </div>
-</div>
+<header class="navbar">
+  <nav class="navbar__inner" aria-label="Main">
+    <a class="navbar__brand" href="{{ base_path }}/">{{ site.title }}</a>
+
+    <button class="navbar__menu-btn" type="button" aria-label="Open menu" aria-expanded="false" aria-controls="nav-links">
+      <i class="fa-solid fa-bars" aria-hidden="true"></i>
+    </button>
+
+    <ul class="navbar__links" id="nav-links">
+      {% for link in site.data.navigation.main %}
+        {% if link.url contains 'http' %}
+          {% assign href = link.url %}
+        {% else %}
+          {% assign href = base_path | append: link.url %}
+        {% endif %}
+        <li>
+          <a href="{{ href }}"{% if page.url == link.url %} class="is-active" aria-current="page"{% endif %}>{{ link.title }}</a>
+        </li>
+      {% endfor %}
+    </ul>
+
+    <button class="theme-toggle" type="button" aria-label="Toggle dark mode" title="Toggle dark mode">
+      <i class="fa-solid fa-moon theme-toggle__moon" aria-hidden="true"></i>
+      <i class="fa-solid fa-sun theme-toggle__sun" aria-hidden="true"></i>
+    </button>
+  </nav>
+</header>

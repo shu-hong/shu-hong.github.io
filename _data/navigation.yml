@@ -1,24 +1,20 @@
-# The following is the order of the links in the header of the website.
-#
-# Changing the order here will adjust the order and you can also add additional
-# links. Removing a link prevents it from showing in the header, but does not
-# prevent it from being included in the site.
+# Order of the links in the top navigation bar.
 
 main:
-  - title: "Experience"
-    url: /experience/
+  - title: "About"
+    url: /
 
   - title: "Research"
     url: /research/
 
+  - title: "Experience"
+    url: /experience/
+
   - title: "Teaching"
-    url: /teaching/    
-    
+    url: /teaching/
+
   - title: "Talks"
-    url: /talks/    
+    url: /talks/
 
   - title: "Service"
-    url: /service/    
-
-
-    
+    url: /service/
