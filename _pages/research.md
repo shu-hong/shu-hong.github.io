@@ -5,7 +5,7 @@ layout: archive
 author_profile: true
 collection: research
 ---
-Much of AI security asks how a model can be attacked. I ask what an AI system can still guarantee at its boundaries, about the parties it cannot verify. Motivated by deployed systems, I build ***AI that acts with security and privacy guarantees that hold without verifying*** the parties it learns from, the people it acts through, and the components it is built from.
+My main research interest lies in trustworthy AI systems. My goal is to make security and privacy guarantees hold in deployment, where AI depends on independent data contributors, human operators, and interacting components. I develop privacy mechanisms for uncertain participation, certified references for monitoring human perception, and methods for reasoning about component operating conditions and interaction risks.
 
 <figure class="research-figure">
 <a href="{{ '/images/research-overview.svg' | relative_url }}" target="_blank" rel="noopener" title="Open full-size figure in a new tab"><img src="{{ '/images/research-overview.svg' | relative_url }}" alt="Overview of my research: (A) theory and methods, (B) interdisciplinary research on AI security and assurance, and (C) deployed systems" width="1063" height="556"></a>

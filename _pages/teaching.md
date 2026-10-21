@@ -20,9 +20,13 @@ collection: teaching
   - 40.001 Probability (*Fall 2019*)
   - 40.012 Manufacturing and Service Operations (*Spring 2020*)
 
+## Teaching Interests
+
+I enjoy teaching courses where networking, security, and machine learning meet, and I like to connect lecture material to the systems students will build and the attacks they will face. I am prepared to teach a range of courses in these areas, including computer and communication networks, network security, security and privacy, machine learning, trustworthy and privacy-preserving machine learning, probability and statistics, and game theory and optimization for networked systems.
+
 ## Resources for Students
 
-Here are a list of articles and talks that I wish I had come across early in my Ph.D. 
+Here are a list of articles and talks that I wish I had come across early in my Ph.D.
 
 **Graduate study and research**
 

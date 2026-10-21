@@ -1,7 +1,7 @@
 ---
 layout: home
 permalink: /
-title: "About Me"
+title: "Home"
 redirect_from:
   - /about/
   - /about.html
@@ -25,11 +25,12 @@ I was a visiting student at Purdue University, hosted by Prof. [Xiaojun Lin](htt
 
 # Research Interests
 
-I build **AI that acts with security and privacy guarantees that hold without verifying** the parties it learns from, the people it acts through, and the components it is built from. My work lies at the intersection of machine learning, security and privacy, and human-in-the-loop and networked systems.
+My work builds *trustworthy and efficient AI/ML* for edge, networked, and cyber-physical systems, unifying machine learning with networking, privacy and security, incentives, and systems co-design. The goal is deployable intelligence that respects real-world constraints in cyber-physical and distributed environments and supports human and organizational decision-making.
 
-- **Theory and methods:** game-theoretic and worst-case certification of parties a system cannot verify
-- **AI security and assurance:** security, privacy, and assurance for AI systems that learn from private data, act through people, and are built from components tested only in isolation
-- **Deployed systems:** mixed reality, analog circuit design, open radio access networks, and autonomous cyber defense
+- **Machine learning algorithms:** federated and split learning, reinforcement learning
+- **Network privacy and security:** differential privacy, secure multi-party computation, membership-safe fine-tuning
+- **AI-system co-design:** wireless/IoT networks, edge/fog computing, cyber-physical applications such as IC design and mixed reality
+- **Optimization and decision-making:** game theory, mechanism design, decision making under uncertainty
 
 # News
 

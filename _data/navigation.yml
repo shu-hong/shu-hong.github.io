@@ -1,7 +1,7 @@
 # Order of the links in the top navigation bar.
 
 main:
-  - title: "About"
+  - title: "Home"
     url: /
 
   - title: "Experience"
