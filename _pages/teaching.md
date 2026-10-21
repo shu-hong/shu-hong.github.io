@@ -22,7 +22,7 @@ collection: teaching
 
 ## Teaching Interests
 
-I enjoy teaching courses where networking, security, and machine learning meet, and I like to connect lecture material to the systems students will build and the attacks they will face. My teach interests lie in a range of courses in these areas, including computer and communication networks, network security, security and privacy, machine learning, trustworthy and privacy-preserving machine learning, probability and statistics, and game theory and optimization for networked systems.
+I enjoy teaching courses where networking, security, and machine learning meet, and I like to connect lecture material to the systems students will build and the attacks they will face. My teaching interests lie in a range of courses in these areas, including computer and communication networks, network security, security and privacy, machine learning, trustworthy and privacy-preserving machine learning, probability and statistics, and game theory and optimization for networked systems.
 
 ## Resources for Students
 
