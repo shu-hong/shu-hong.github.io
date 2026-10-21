@@ -431,6 +431,67 @@ main.container {
   .cv-entry__loc { margin-top: 0; color: var(--muted); }
 }
 
+/* ---------- Research overview figure ---------- */
+
+:root {
+  --fig-blue: #2c64aa;
+  --fig-red: #b24848;
+  --fig-green: #238b45;
+}
+:root[data-theme="dark"] {
+  --fig-blue: #7fa6dc;
+  --fig-red: #d98a8a;
+  --fig-green: #6cc08b;
+}
+
+.research-figure {
+  margin: 1.5rem 0 2rem;
+}
+
+.research-figure a {
+  display: block;
+  background: #fff;
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  padding: 0.75rem;
+}
+.research-figure a:hover { border-color: var(--accent); }
+
+.page__content .research-figure img {
+  display: block;
+  width: 100%;
+  height: auto;
+  border-radius: 0;
+}
+/* Dim the whole card in dark mode, not just the image, so the label boxes inside the figure stay invisible. */
+:root[data-theme="dark"] .page__content .research-figure img { filter: none; }
+:root[data-theme="dark"] .research-figure a { filter: brightness(0.9); }
+
+.page__content .research-figure__hint {
+  display: none;
+  margin: 0.5rem 0 0;
+  font-size: 0.82rem;
+  font-style: italic;
+  color: var(--muted);
+}
+
+.research-figure figcaption {
+  margin-top: 0.9rem;
+  font-size: 0.93rem;
+  line-height: 1.6;
+  color: var(--muted);
+}
+.research-figure figcaption .c-blue,
+.research-figure figcaption .c-red,
+.research-figure figcaption .c-green { font-weight: 600; }
+.c-blue { color: var(--fig-blue); }
+.c-red { color: var(--fig-red); }
+.c-green { color: var(--fig-green); }
+
+@media (max-width: 600px) {
+  .page__content .research-figure__hint { display: block; }
+}
+
 /* ---------- Notice box (job-market note) ---------- */
 
 .notice {

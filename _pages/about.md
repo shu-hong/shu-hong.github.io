@@ -30,19 +30,18 @@ I was a visiting student at Purdue University, hosted by Prof. [Xiaojun Lin](htt
 
 # Research Interests
 
-My work builds *trustworthy and efficient AI/ML* for edge, networked, and cyber-physical systems, unifying machine learning with networking, privacy and security, incentives, and systems co-design. The goal is deployable intelligence that respects real-world constraints in cyber-physical and distributed environments and supports human and organizational decision-making.
+I build **AI that acts with security and privacy guarantees that hold without verifying** the parties it learns from, the people it acts through, and the components it is built from. My work lies at the intersection of machine learning, security and privacy, and human-in-the-loop and networked systems.
 
-- Machine learning algorithms: federated and split learning, reinforcement learning
-- Network privacy and security: differential privacy, secure multi-party computation, membership-safe fine-tuning
-- AI-system co-design: wireless/IoT networks, edge/fog computing, cyber-physical applications such as IC design and mixed reality
-- Optimization and decision-making: game theory, mechanism design, decision making under uncertainty
+- **Theory and methods:** game-theoretic and worst-case certification of parties a system cannot verify
+- **AI security and assurance:** security, privacy, and assurance for AI systems that learn from private data, act through people, and are built from components tested only in isolation
+- **Deployed systems:** mixed reality, analog circuit design, open radio access networks, and autonomous cyber defense
 
 # News
 
-- *Aug. 2026* Our work "Model-based Zero-Shot Conflict Detection Framework via Gradients in O-RAN" was accepted in the 27th International Symposium on Theory, Algorithmic Foundations, and Protocol Design for Mobile Networks and Mobile Computing (ACM MobiHoc 2026).
-- *May 2026* Our work "AnalogFed: Privacy-Preserving Discovery of Analog Circuits at Scale with Federated Generative AI" was accepted in the IEEE International Conference on LLM-Aided Design (LAD).
-- *Apr. 2026* Our work "[Recovering Reward Functions from Distributed Expert Demonstrations via Bi-level Maximum-likelihood Optimization]({{ '/files/Paper/TNNLS_2026_Federated_Inverse_Reinforcement_Learning.pdf' | relative_url }})" was accepted in the IEEE Transactions on Neural Networks and Learning Systems (TNNLS).
-- *Jan. 2026* Our work "[Workflow Search Reinforcement Learning over Structured Decompositions]({{ '/files/Paper/L4DC_2026_Workflow_Search_RL.pdf' | relative_url }})" was accepted at the Annual Learning for Dynamics and Control Conference (L4DC), 2026.
+- *Aug. 2026* Our work "Model-based Zero-Shot Conflict Detection Framework via Gradients in O-RAN" was accepted at ACM MobiHoc 2026.
+- *May 2026* Our work "AnalogFed: Privacy-Preserving Discovery of Analog Circuits at Scale with Federated Generative AI" was accepted at IEEE LAD 2026.
+- *Apr. 2026* Our work "[Recovering Reward Functions from Distributed Expert Demonstrations via Bi-level Maximum-likelihood Optimization]({{ '/files/Paper/TNNLS_2026_Federated_Inverse_Reinforcement_Learning.pdf' | relative_url }})" was accepted by IEEE TNNLS.
+- *Jan. 2026* Our work "[Workflow Search Reinforcement Learning over Structured Decompositions]({{ '/files/Paper/L4DC_2026_Workflow_Search_RL.pdf' | relative_url }})" was accepted at L4DC 2026.
 - *Oct. 2025* Our work "Time-Aware LSTM for Gaze Prediction in Mixed Reality Under Latency Perturbations" received the Best Poster/Demo Award at the ACM MobiHoc XR Security Workshop.
 - *May 2025* I presented our work "[Lightweight Federated Learning with Differential Privacy and Straggler Resilience]({{ '/files/Paper/INFOCOM_2025_LightDP_FL.pdf' | relative_url }})" at IEEE INFOCOM 2025.
 - *May 2025* I co-organized and moderated the [“Tech Leadership and Diversity” panel](https://infocom2025.ieee-infocom.org/program/wice), jointly organized by WICE, N2Women, and ACM-W.
