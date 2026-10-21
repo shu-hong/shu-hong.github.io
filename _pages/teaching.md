@@ -29,10 +29,10 @@ Here are a list of articles and talks that I wish I had come across early in my 
 - [A Survival Guide to a PhD](https://karpathy.github.io/2016/09/07/phd/), by Andrej Karpathy
 - [How to Have a Bad Career in Research/Academia](https://people.eecs.berkeley.edu/~pattrsn/talks/BadCareer.pdf), by David Patterson
 
-**Reading and reviewing**
+**Reading**
 
 - [How to Read a Paper](https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf), by S. Keshav
-- [Writing Reviews for Systems Conferences](https://people.inf.ethz.ch/troscoe/pubs/review-writing.pdf), by Timothy Roscoe
+- [How to Read an Engineering Research Paper](https://cseweb.ucsd.edu/~wgg/CSE210/howtoread.html), by William G. Griswold
 
 **Writing**
 
