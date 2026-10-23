@@ -34,6 +34,7 @@ My work builds *trustworthy and efficient AI/ML* for edge, networked, and cyber-
 
 # News
 
+- *Oct. 2026* Our work "Joint Offloading and Layer Splitting for Resource-Limited Split Federated Learning" was accepted by IEEE TMC.
 - *Aug. 2026* Our work "Model-based Zero-Shot Conflict Detection Framework via Gradients in O-RAN" was accepted at ACM MobiHoc 2026.
 - *May 2026* Our work "AnalogFed: Privacy-Preserving Discovery of Analog Circuits at Scale with Federated Generative AI" was accepted at IEEE LAD 2026.
 - *Apr. 2026* Our work "[Recovering Reward Functions from Distributed Expert Demonstrations via Bi-level Maximum-likelihood Optimization]({{ '/files/Paper/TNNLS_2026_Federated_Inverse_Reinforcement_Learning.pdf' | relative_url }})" was accepted by IEEE TNNLS.
@@ -50,6 +51,7 @@ My work builds *trustworthy and efficient AI/ML* for edge, networked, and cyber-
 
 <!-- <div style="font-size:0.95em; line-height:1.5;"> -->
 
+- **Shu Hong**, Vincent W.S. Wong. “Joint Offloading and Layer Splitting for Resource-Limited Split Federated Learning.” *IEEE Transactions on Mobile Computing*, 2026.
 - **Shu Hong**, Yongsheng Mei, Mahdi Imani, Tian Lan, “Global Optimization on Graph-Structured Data via Gaussian
   Processes with Spectral Representations,” *arXiv preprint* arXiv:2511.07734. [(Paper)](https://arxiv.org/pdf/2511.07734)
 

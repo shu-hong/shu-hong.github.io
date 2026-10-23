@@ -26,6 +26,7 @@ My main research interest lies in trustworthy AI systems. My goal is to make sec
 
 ## Journals
 
+- **Shu Hong**, Vincent W.S. Wong, “Joint Offloading and Layer Splitting for Resource-Limited Split Federated Learning,” *IEEE Transactions on Mobile Computing (TMC)*, 2026.
 - Guangyu Jiang, **Shu Hong**, Mahdi Imani, Nathaniel D. Bastian and Tian Lan, "Recovering Reward Functions from Distributed Expert Demonstrations via Bi-level Maximum-likelihood Optimization," *IEEE Transactions on Neural Networks and Learning Systems (TNNLS)*, 2026. [(Paper)]({{ '/files/Paper/TNNLS_2026_Federated_Inverse_Reinforcement_Learning.pdf' | relative_url }}) [(Link)](https://ieeexplore.ieee.org/abstract/document/11526810)
 - **Shu Hong**, Lingjie Duan, “Crowdsourced Privacy Protection Game against Adversary through Multi-user Location Obfuscation,” *IEEE Transactions on Mobile Computing (TMC)*, 2023. [(Paper)]({{ '/files/Paper/TMC_2023_MultiUserPrivacy.pdf' | relative_url }}) [(Link)](https://ieeexplore.ieee.org/document/10054135)
 - **Shu Hong**, Lingjie Duan, Jianwei Huang, “Protecting Location Privacy by Multi-Query: A Dynamic Bayesian Game Theoretic Approach,” *IEEE Transactions on Information Forensics and Security (TIFS)*, 2022. [(Paper)]({{ '/files/Paper/TIFS_2022_Multiquery.pdf' | relative_url }}) [(Link)](https://ieeexplore.ieee.org/abstract/document/9819902)
