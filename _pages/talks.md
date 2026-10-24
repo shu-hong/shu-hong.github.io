@@ -1,5 +1,5 @@
 ---
-title: "Talks and Presentations"
+title: "Talks"
 permalink: /talks/
 layout: archive
 author_profile: true
