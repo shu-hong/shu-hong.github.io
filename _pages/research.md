@@ -7,12 +7,6 @@ collection: research
 ---
 My main research interest lies in trustworthy AI systems. My goal is to make security and privacy guarantees hold in deployment, where AI depends on independent data contributors, human operators, and interacting components. I develop privacy mechanisms for uncertain participation, certified references for monitoring human perception, and methods for reasoning about component operating conditions and interaction risks.
 
-<figure class="research-figure">
-<a href="{{ '/images/research-overview.svg' | relative_url }}" target="_blank" rel="noopener" title="Open full-size figure in a new tab"><img src="{{ '/images/research-overview.svg' | relative_url }}" alt="Overview of my research: (A) theory and methods, (B) interdisciplinary research on AI security and assurance, and (C) deployed systems" width="1063" height="556"></a>
-<p class="research-figure__hint">Tap the figure to open it at full size.</p>
-<figcaption>My research bridges theory, interdisciplinary research, and deployed systems. <span class="c-green">Motivated</span> by deployed systems that act through parties they cannot verify (C), I develop certificates that hold without verification (A) to <span class="c-blue">support</span> security and assurance research at the boundaries of AI systems (B), and <span class="c-red">enforce</span> them in deployed systems (C).</figcaption>
-</figure>
-
 # Publications
 
 <!-- ### Selected Publications -->
