@@ -32,21 +32,21 @@
     });
   }
 
-  // News: show the most recent items, fold the rest behind a button.
-  var NEWS_VISIBLE = 6;
+  // News: show the list in a fixed-height scroll area with a fade that clears at the end.
   document.querySelectorAll("ul.news, #news + ul").forEach(function (list) {
-    var items = list.querySelectorAll(":scope > li");
-    if (items.length <= NEWS_VISIBLE + 2) return;
-    list.classList.add("is-collapsed");
-    var btn = document.createElement("button");
-    btn.type = "button";
-    btn.className = "news__more";
-    btn.textContent = "Show earlier news";
-    btn.addEventListener("click", function () {
-      var collapsed = list.classList.toggle("is-collapsed");
-      btn.textContent = collapsed ? "Show earlier news" : "Show less";
-    });
-    list.insertAdjacentElement("afterend", btn);
+    var box = document.createElement("div");
+    box.className = "news-scroll";
+    box.tabIndex = 0;
+    box.setAttribute("role", "region");
+    box.setAttribute("aria-label", "News");
+    list.parentNode.insertBefore(box, list);
+    box.appendChild(list);
+    var update = function () {
+      box.classList.toggle("is-end", box.scrollTop + box.clientHeight >= box.scrollHeight - 2);
+    };
+    box.addEventListener("scroll", update, { passive: true });
+    window.addEventListener("resize", update);
+    update();
   });
 
   // Open external sites and files (PDFs, slides) in a new tab; links between site pages stay in place.

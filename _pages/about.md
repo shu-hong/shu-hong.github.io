@@ -21,27 +21,33 @@ redirect_from:
 I am currently a postdoctoral associate in the Department of Electrical and Computer Engineering at the George Washington University, advised by Prof. [Tian Lan](https://www2.seas.gwu.edu/~tlan/). I received my Ph.D. degree from the Engineering Systems and Design Department at Singapore University of Technology and Design, advised by Prof. [Lingjie Duan](https://personal.hkust-gz.edu.cn/lingjieduan/).
 I was a visiting student at Purdue University, hosted by Prof. [Xiaojun Lin](https://staff.ie.cuhk.edu.hk/~xjlin/), and a postdoctoral fellow at the University of British Columbia, working with Prof. [Vincent Wong](https://people.ece.ubc.ca/~vincentw/Homepage/Home.html). I obtained my B.Eng degree in Information Engineering from Southeast University, Nanjing, China.
 
+<div class="notice">
+  <span class="notice__icon"><i class="fa-solid fa-briefcase" aria-hidden="true"></i></span>
+  <p><strong>I am on the 2026–2027 job market.</strong></p>
+</div>
+
 <!-- /bio -->
 
 # Research Interests
 
-My work builds *trustworthy and efficient AI/ML* whose security and privacy guarantees hold in deployment, unifying machine learning with networking, privacy and security, incentives, and systems co-design. The goal is deployable intelligence that respects real-world constraints in cyber-physical and distributed environments and supports human and organizational decision-making.
+My work builds *trustworthy and efficient AI/ML* whose security and privacy guarantees hold in deployment, in systems that learn across organizations, operate shared infrastructure, and support human decision-making. I draw on machine learning, networking, incentives, and systems co-design to make this possible under real-world constraints.
 
 - **Machine learning algorithms:** federated and split learning, reinforcement learning
-- **Network privacy and security:** differential privacy, secure multi-party computation, membership-safe fine-tuning
+- **Privacy and security:** differential privacy, secure multi-party computation, membership-safe fine-tuning
 - **AI-system co-design:** wireless/IoT networks, edge/fog computing, cyber-physical applications such as IC design and mixed reality
 - **Optimization and decision-making:** game theory, mechanism design, decision making under uncertainty
 
 # News
 
-- *Oct. 2026* Our work "Joint Offloading and Layer Splitting for Resource-Limited Split Federated Learning" was accepted by IEEE TMC.
-- *Aug. 2026* Our work "Model-based Zero-Shot Conflict Detection Framework via Gradients in O-RAN" was accepted at ACM MobiHoc 2026.
-- *May 2026* Our work "AnalogFed: Privacy-Preserving Discovery of Analog Circuits at Scale with Federated Generative AI" was accepted at IEEE LAD 2026.
+- *Oct. 2026* Our work "[Joint Offloading and Layer Splitting for Resource-Limited Split Federated Learning]({{ '/files/Paper/TMC_2026_MESFL.pdf' | relative_url }})" was accepted by IEEE TMC.
+- *Aug. 2026* Our work "[Model-based Zero-Shot Conflict Detection Framework via Gradients in O-RAN](https://arxiv.org/pdf/2604.19610)" was accepted at ACM MobiHoc 2026.
+- *May 2026* Our work "[AnalogFed: Privacy-Preserving Discovery of Analog Circuits at Scale with Federated Generative AI](https://arxiv.org/pdf/2507.15104)" was accepted at IEEE LAD 2026.
 - *Apr. 2026* Our work "[Recovering Reward Functions from Distributed Expert Demonstrations via Bi-level Maximum-likelihood Optimization]({{ '/files/Paper/TNNLS_2026_Federated_Inverse_Reinforcement_Learning.pdf' | relative_url }})" was accepted by IEEE TNNLS.
 - *Jan. 2026* Our work "[Workflow Search Reinforcement Learning over Structured Decompositions]({{ '/files/Paper/L4DC_2026_Workflow_Search_RL.pdf' | relative_url }})" was accepted at L4DC 2026.
-- *Oct. 2025* Our work "Time-Aware LSTM for Gaze Prediction in Mixed Reality Under Latency Perturbations" received the Best Poster/Demo Award at the ACM MobiHoc XR Security Workshop.
+- *Oct. 2025* Our work "[Time-Aware LSTM for Gaze Prediction in Mixed Reality Under Latency Perturbations]({{ '/files/Paper/MRSecurity_2025_Gaze_Model.pdf' | relative_url }})" received the Best Poster/Demo Award at the ACM MobiHoc XR Security Workshop.
 - *May 2025* I presented our work "[Lightweight Federated Learning with Differential Privacy and Straggler Resilience]({{ '/files/Paper/INFOCOM_2025_LightDP_FL.pdf' | relative_url }})" at IEEE INFOCOM 2025.
 - *May 2025* I co-organized and moderated the [“Tech Leadership and Diversity” panel](https://infocom2025.ieee-infocom.org/program/wice), jointly organized by WICE, N2Women, and ACM-W.
+- *Apr. 2025* I received the N2Women Young Researcher Fellowship.
 
 <!-- - *Oct. 2025*: I presented our work "Time-Aware LSTM for Gaze Prediction in Mixed Reality Under Latency Perturbations" and "Perception Graph for Cognitive Attack Reasoning in Augmented Reality" at the ACM MobiHoc XR Security Workshop. -->
 
@@ -51,7 +57,7 @@ My work builds *trustworthy and efficient AI/ML* whose security and privacy guar
 
 <!-- <div style="font-size:0.95em; line-height:1.5;"> -->
 
-- **Shu Hong**, Vincent W.S. Wong. “Joint Offloading and Layer Splitting for Resource-Limited Split Federated Learning.” *IEEE Transactions on Mobile Computing*, 2026.
+- **Shu Hong**, Vincent W.S. Wong. “Joint Offloading and Layer Splitting for Resource-Limited Split Federated Learning.” *IEEE Transactions on Mobile Computing*, 2026. [(Paper)]({{ '/files/Paper/TMC_2026_MESFL.pdf' | relative_url }})
 - **Shu Hong**, Yongsheng Mei, Mahdi Imani, Tian Lan, “Global Optimization on Graph-Structured Data via Gaussian
   Processes with Spectral Representations,” *arXiv preprint* arXiv:2511.07734. [(Paper)](https://arxiv.org/pdf/2511.07734)
 
