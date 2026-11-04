@@ -7,6 +7,12 @@ collection: research
 ---
 My main research interest lies in trustworthy AI systems. My goal is to make security and privacy guarantees hold in deployment, where AI depends on independent data contributors, interacting components, and human operators. I develop privacy mechanisms for uncertain participation, methods for reasoning about component operating conditions and interaction risks, and certified references for monitoring human perception.
 
+<figure class="research-figure">
+<a href="{{ '/images/research-map.svg' | relative_url }}" target="_blank" rel="noopener" title="Open full-size figure in a new tab"><img src="{{ '/images/research-map.svg' | relative_url }}" alt="Trustworthy AI in deployment: three nested scopes. 1, privacy for collaborative learning; 2, assurance for interacting AI components; 3, human cognitive security." width="1063" height="491"></a>
+<p class="research-figure__hint">Tap the figure to open it at full size.</p>
+<figcaption><strong>Trustworthy AI in deployment.</strong> Security and privacy sustained across three nested scopes: private information exchange in collaborative learning, dependable joint computation among components, and the perception on which human oversight depends.</figcaption>
+</figure>
+
 # Publications
 
 <!-- ### Selected Publications -->
