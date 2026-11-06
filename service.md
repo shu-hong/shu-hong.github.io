@@ -14,6 +14,8 @@ collection: service
 ### Program Committee
 - Annual AAAI Conference on Artificial Intelligence (AAAI), 2026–2027
 
+- IEEE International Symposium on Performance Analysis of Systems and Software (ISPASS), 2027
+
 - The International Conference on Wireless Communications and Signal Processing (WCSP), 2026
 
 - Agentic and Decentralized Coordination for Softwarized Networks  Workshop (ADeCoS), 2026
