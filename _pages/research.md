@@ -26,7 +26,8 @@ My main research interest lies in trustworthy AI systems. My goal is to make sec
 
 ## Journals
 
-- **Shu Hong**, Vincent W.S. Wong, “Joint Offloading and Layer Splitting for Resource-Limited Split Federated Learning,” *IEEE Transactions on Mobile Computing (TMC)*, 2026. [(Paper)]({{ '/files/Paper/TMC_2026_MESFL.pdf' | relative_url }})
+- **Shu Hong**, Vincent W.S. Wong, “Joint Offloading and Layer Splitting for Resource-Limited Split Federated Learning,” *IEEE Transactions on Mobile Computing (TMC)*, 2026. [(Paper)]({{ '/files/Paper/TMC_2026_MESFL.pdf' | relative_url }}) [(Link)](https://ieeexplore.ieee.org/document/11780587)
+
 - Guangyu Jiang, **Shu Hong**, Mahdi Imani, Nathaniel D. Bastian and Tian Lan, "Recovering Reward Functions from Distributed Expert Demonstrations via Bi-level Maximum-likelihood Optimization," *IEEE Transactions on Neural Networks and Learning Systems (TNNLS)*, 2026. [(Paper)]({{ '/files/Paper/TNNLS_2026_Federated_Inverse_Reinforcement_Learning.pdf' | relative_url }}) [(Link)](https://ieeexplore.ieee.org/abstract/document/11526810)
 - Peng Wu, Kaiming Huang, Mingyu Zhu, Zifan Zhou, Jianan Jiang, Nasim Ahmed, Md Mahedi Hassan, **Shu Hong**, Bin Li, Rifatul Islam, Tian Lan, Gang Tan, Mahdi Imani, “Robust Engagement Estimation in Mixed Reality Under Cognitive Attack,” *IEEE Transactions on Visualization and Computer Graphics (TVCG)*, 2026 (presented at IEEE ISMAR 2026). [(Paper)]({{ '/files/Paper/ISMAR_2026_RobustEngagement.pdf' | relative_url }}) [(Link)](https://ieeexplore.ieee.org/abstract/document/11763436)
 - **Shu Hong**, Lingjie Duan, “Crowdsourced Privacy Protection Game against Adversary through Multi-user Location Obfuscation,” *IEEE Transactions on Mobile Computing (TMC)*, 2023. [(Paper)]({{ '/files/Paper/TMC_2023_MultiUserPrivacy.pdf' | relative_url }}) [(Link)](https://ieeexplore.ieee.org/document/10054135)
